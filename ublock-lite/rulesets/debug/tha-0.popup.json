@@ -1,0 +1,14 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "35.193.89.147"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 753
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/cxrobotsdkjs.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.coinmarketcap.com/chatbot/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||asus-brand-assistant.asus.com/brand-assistant.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.whoop.com/v0/chat/chat.js",
+      "initiatorDomains": [
+        "support.whoop.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||klipy.atlassian.net/csm/widget/",
+      "initiatorDomains": [
+        "klipy.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||mfgpt.milanofinanza.it/widget/widget.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydrivers.com//v2/pc/aisummaryhandler.ashx?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "chat.cdn-plain.com",
+        "chat.g4media.org",
+        "embed.chatnode.ai",
+        "urbandictionary.ai",
+        "widget.indexfox.ai"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||azurefd.net/cdns/copilot_v3.min.js",
+      "initiatorDomains": [
+        "nus.edu.sg"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "alhena.ai",
+        "askmiso.com",
+        "booosted.com",
+        "callnowbutton.com",
+        "cdn.gist.ai",
+        "engagelab.com",
+        "gotolstoy.com",
+        "octaneai.com",
+        "sdk.whtvr.ai",
+        "srv.divee.ai",
+        "w.replied.chat",
+        "widget.brambles.ai",
+        "widget.kapa.ai",
+        "widget.prod.equally.ai"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  }
+]

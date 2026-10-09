@@ -1,0 +1,23 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "banners.igloro.info",
+        "bms.creativepartner.lt",
+        "prod.one.lt",
+        "trackers.adtarget.me",
+        "rkl.draugas.lt",
+        "r-scale-fb.static.go3.tv",
+        "skpiramide.lt",
+        "core.dimatter.ai",
+        "befirstcdn.com",
+        "trafficbass.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "otzads.net",
+        "bivogrvfyoj.in",
+        "chorumebbbbgoza.xyz",
+        "comprargratis.com.br",
+        "cdn-4k-webp.site",
+        "adzep.io",
+        "adme2.click",
+        "mathilde-ads.com",
+        "jogoforte.com",
+        "publyads.jstag.space",
+        "crummydevioussucculent.com",
+        "ceremonyjogglecling.com",
+        "upeex.com.br",
+        "upeex.com",
+        "adspublicidades.agency",
+        "t.babelmedia.global",
+        "classic-bonus.com",
+        "adzonestatic.com",
+        "ads.impulsosocial.online",
+        "bowedcounty.com",
+        "publi.atresmediapublicidad.com",
+        "landings.hopghpfa.com",
+        "landings.zcoptry.com",
+        "banners.inforchannel.com.br",
+        "zcp.zwame.pt",
+        "ads.enrt.eu",
+        "eru5tdmbuwxm.com",
+        "gyh1lh20owj.ru",
+        "byfoongusor.com",
+        "v2b.nucleo.online",
+        "bserver.gp-guia.net",
+        "widgets.informars.com",
+        "subdo.torrentrapid.com",
+        "adw.sapo.pt",
+        "184.106.248.76",
+        "ad-pub.terra.com.br",
+        "ad.correioweb.com.br",
+        "ad.terra.com.mx",
+        "ad.terra.com",
+        "ads.elpais.com.uy",
+        "ads.gamavirtual.com",
+        "ads.gazetaesportiva.net",
+        "ads.lomadee.com",
+        "ads.mercadoclics.com",
+        "ads.olx.com",
+        "ads.periodistadigital.com",
+        "adsroute.com",
+        "navdmp.com",
+        "publicidad.net",
+        "publipagos.com",
+        "softclick.com.br",
+        "solution911.com",
+        "ak-ads-ns.prisasd.com",
+        "ads.comunidades.net",
+        "ads-redis.ecn.cl",
+        "publi.elliberal.com.ar",
+        "xad.dnoticias.pt",
+        "adclient-uol.lp.uol.com.br",
+        "adv.r7.com",
+        "hilariouszinc.com",
+        "azureedge-global-fastly-cloudfront-ondigitalocean-stackpathcdn.buzz",
+        "ads.regiedepub.com",
+        "ads.terra.es",
+        "ads.tvtuga.com",
+        "ads.webme.com",
+        "ads.xl.pt",
+        "analytic.337.com",
+        "anunciospatrocinados.com",
+        "banners.emol.com",
+        "banners.todoconsolas.com",
+        "clicks.abril.com.br",
+        "compras.periodistadigital.com",
+        "estadisticas.lanacion.com.ar",
+        "estaticos.soitu.es",
+        "flogs.orange.es",
+        "impreso.elfinanciero.com.mx",
+        "p.lasexta.com",
+        "parceria.americanas.com.br",
+        "ppi.terra.com.br",
+        "pub.lacuerda.net",
+        "pubs.xl.pt",
+        "stats.folha.com.br",
+        "stats.milenio.com",
+        "track.es.sitebro.net",
+        "uv.terra.com.br",
+        "vitrine.lugarcerto.com.br",
+        "vitrines.globo.com",
+        "zahir2.aeiou.pt",
+        "zahirx.aeiou.pt"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "crummydevioussucculent.com",
+        "ads.impulsosocial.online"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 653
+  },
+  {
+    "condition": {
+      "urlFilter": "||cuevana.fm/register"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 654
+  }
+]

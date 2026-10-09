@@ -1,0 +1,18 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "chat.cdn-plain.com",
+        "chat.g4media.org",
+        "embed.chatnode.ai",
+        "urbandictionary.ai",
+        "widget.indexfox.ai"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  }
+]

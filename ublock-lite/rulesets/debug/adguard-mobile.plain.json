@@ -1,0 +1,8503 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "adx-open-service.youku.com",
+        "ad.youku.com",
+        "ykad-data.youku.com",
+        "cad.youku.com",
+        "dad-api.dcard.tw",
+        "ad-splash-tracking.hktvmall.com",
+        "ad-splash.hktvmall.com",
+        "advil.waze.com",
+        "s-adx.op-mobile.opera.com",
+        "ketchapp.org",
+        "cdn-ketchapp.akamaized.net",
+        "sspapi-prd.samsungrs.com",
+        "admin.appnext.com",
+        "global.appnext.com",
+        "cdn.appnext.com",
+        "api.appnxt.net",
+        "apis.appnxt.net",
+        "banners-slb.mobile.yandex.net",
+        "banners.mobile.yandex.net",
+        "a.line.me",
+        "app.ssp.yahoo.com",
+        "mimicromax.com",
+        "bi.yeshen.com",
+        "launcher.us.yeshen.com",
+        "search.adcaffe.com",
+        "monitor.adcaffe.com",
+        "ad-api.ehawk.com",
+        "mobotoolpush.moboapps.io",
+        "ssp.mediation.trnox.com",
+        "bu1.duba.com",
+        "behacdn.ksmobile.net",
+        "p-behacdn.ksmobile.net",
+        "crosspromotion.weplayer.cc",
+        "ad.weplayer.cc",
+        "mobile-campaigns.avast.com",
+        "adpush.goforandroid.com",
+        "dzpu6za66svjl.cloudfront.net",
+        "ad.flipboard.com",
+        "adserver.shadow.snapads.com",
+        "ads-chunks.prod.ihrhls.com",
+        "api.ads.watchabc.go.com",
+        "socdm.com",
+        "criteo.com",
+        "criteo.net",
+        "appodeal.com",
+        "appbaqend.com",
+        "rayjump.com",
+        "sdkc.vervegroupinc.net",
+        "static.terratraf.com",
+        "cdn-rtb.sape.ru",
+        "aatkit.com",
+        "gallerieshub.com",
+        "pic-stash.com",
+        "ad.buzzvil.com",
+        "screen.buzzvil.com",
+        "adstrategy.biz.weibo.com",
+        "ad.weibo.com",
+        "geoloc.yospace.com",
+        "banner.hpmdnetwork.ru",
+        "hybrid.ai",
+        "px.adhigh.net",
+        "mblapi.ssl2.duapps.com",
+        "api.mobula.ds.duapps.com",
+        "noxagile.duapp.com",
+        "common.duapps.com",
+        "pasta.esfile.duapps.com",
+        "api.mobula.sdk.duapps.com",
+        "ad.duapps.com",
+        "ufz.doesxyz.com",
+        "xdrig.com",
+        "usp1.baidu.com",
+        "54.222.186.106",
+        "plugin.mobopay.baidu.com",
+        "mo.freeindoapp.com",
+        "vod-mplayer.sooplive.com",
+        "reqde.sooplive.com",
+        "adballoon.sooplive.com",
+        "deapi.sooplive.com",
+        "startup.mobile.yandex.net",
+        "startup.mobile.webvisor.com",
+        "startup-mobile.ap.yandex-net.ru",
+        "acdn.newshuntads.com",
+        "app.bxapi.de",
+        "yodo1.com",
+        "banner.bet365partners.com",
+        "playwire.com",
+        "fingerhi.net",
+        "palateonce.com",
+        "ad2.fivecdm.com",
+        "ads-m.rustore.ru",
+        "appgw.inmobi.com",
+        "adhub.porcino-kinoko.workers.dev",
+        "uibjh29vqc.com",
+        "ads.heytapmobi.com",
+        "adsfs.heytapimage.com",
+        "shiyifacaisalzc.com",
+        "kw0xlh4wig.com",
+        "h-adashx.ut.taobao.com",
+        "p3-ad-sign.byteimg.com",
+        "p3-ad-sign.byteimg.com.queniusy.com",
+        "goads2023.com",
+        "wcp.taobao.com",
+        "yfanads.com",
+        "mobads-pre-config.cdn.bcebos.com",
+        "mobads-logs.bcebos.com",
+        "prismriotads.com",
+        "bidder.a11.vega.aurion11.io",
+        "ad-api.revoaidapp.com",
+        "mmp-api.itpub.cloud",
+        "mt-api.itpub.cloud",
+        "uydeqs9.xyz",
+        "pullcf.com",
+        "fnyfeds.com",
+        "api2.wshareit.com",
+        "mcds.dalyfeds.com",
+        "api-v2.shareitgames.com",
+        "catsonictp.com",
+        "multiww.com",
+        "geegad.com",
+        "ad.bestools.group",
+        "ad.zankhana.ltd",
+        "afs.googlesyndication.com",
+        "pob-mob2.websearchbrowser.com",
+        "ucads.ucweb.com",
+        "ad-api.maxnapps.com",
+        "d3vgkjyuhp91nc.cloudfront.net",
+        "rainmaker4.production-public.tubi.io",
+        "x3m.biz",
+        "d1tru86qrby720.cloudfront.net",
+        "ads.phonepe.com",
+        "ads-static.phonepe.com",
+        "bstream.channelcom.tech",
+        "ggbond.peaksite.tech",
+        "mediation.goog",
+        "axon.ai",
+        "up.ousabq.tech",
+        "ogads-pa.clients6.google.com",
+        "ad.mojisead.co.kr",
+        "openglass.tv",
+        "octillion.tv",
+        "ctv-ads.api.leiniao.com",
+        "sonicsads.com",
+        "nextacdn.top",
+        "se.rfvtgbyhn.com",
+        "tc.qzwxrtyk.com",
+        "bstgms4y.com",
+        "reward-api.csjplatform.com",
+        "tbiwtech.com",
+        "impbid.com",
+        "bidsms.com",
+        "pithyiwgz.top",
+        "zxphiz.tech",
+        "zoly.tech",
+        "adeeply.ru",
+        "maxesads.ru",
+        "datafinder-beacon.starii-rover.com",
+        "ads-bridge.pixocial.com",
+        "freewheel-jitt.sanoma.fi",
+        "parrot-flow.com",
+        "robin-flow.com",
+        "app-ads-services.com",
+        "adtmonetize.com",
+        "rugfrfji.win",
+        "ads-cdn.hopper.com",
+        "hpfkvr.icu",
+        "horsed44.com",
+        "fxlcvd.icu",
+        "goi08150kh.com",
+        "okloib88.com",
+        "23.224.199.96",
+        "23.224.199.74",
+        "cross-promo-provider.easybrain.com",
+        "consent.easybrain.com",
+        "beijingzhongnanhai.com",
+        "jybsb9oyss.com",
+        "vniddlg.xyz",
+        "tiu6ij9yqn.com",
+        "drbbzzs.xyz",
+        "ads-segment-profile-noneu.truecaller.com",
+        "ad.intools.dev",
+        "afafb.com",
+        "zmqdez.ru",
+        "tr.acobt.tech",
+        "promotion.xmeye.net",
+        "promotion-en.xmeye.net",
+        "promotion-quicker.jftechsoft.com",
+        "sheilaqeb.com",
+        "api.adaether.com",
+        "rainmaker.production-public.tubi.io",
+        "configure.rayjump.com",
+        "v.kidoz.net",
+        "sdk-api.kidoz.net",
+        "gadsme.com",
+        "maticooads.com",
+        "apishow.babybus.com",
+        "apppromoteapi.babybus.com",
+        "tiktokpangle.us",
+        "lf-static.tiktokpangle-cdn-us.com",
+        "v8b9c0x1z2.sai7348.xyz",
+        "lgvlbd.icu",
+        "crossadsapi.ecomobileapp.com",
+        "service-ad-image-ga.prd.pluto.tv",
+        "pavoshare.com",
+        "global-staticplat.cdn.bcebos.com",
+        "datk.bridgeoos.com",
+        "ads.appbundledownload.com",
+        "san.myadssupport.com",
+        "api.youngle.tech",
+        "api.myadsget.com",
+        "api.sve.cc",
+        "adx-sg-req.bridgeoos.com",
+        "adx-os.bridgeoos.com",
+        "api.kickoffo.site",
+        "api.bridgeoos.com",
+        "r0.mail.ru",
+        "r0.mradx.net",
+        "serveraddr.service.kugou.com",
+        "d.kugou.com",
+        "nbcollect.kugou.com",
+        "nbcollectretry.kugou.com",
+        "dl-adx.op-mobile.opera.com",
+        "ads.smrtbid.com",
+        "bidjora.com",
+        "aomsitf.com",
+        "richlifeads.ru",
+        "tapulsads.ru",
+        "httpdns.bilivideo.com",
+        "dataflow.biliapi.com",
+        "ads.adinmotech.com",
+        "kvaedit.site",
+        "ads-ap-venues.yinzcam.com",
+        "ads-delivery.gunosy.com",
+        "ads-config-engine-noneu.truecaller.com",
+        "ad.inston.ltd",
+        "ad.deepthought.industries",
+        "ads.cocomobi.com",
+        "inmense.site",
+        "dollphoin.site",
+        "news-img.site",
+        "news-cdn.site",
+        "mossru.com",
+        "jjpp.lmtjapi.com",
+        "frontier100-toutiao-lf.fqnovel.com",
+        "ad.snaptube.app",
+        "ad.mobiuspace.net",
+        "api-ad-callback.falconnet.app",
+        "adnami.io",
+        "ads-router-noneu.truecaller.com",
+        "umphek.com",
+        "playgap.b-cdn.net",
+        "ahoy-internal-ads-hv.b-cdn.net",
+        "downloadshi.b-cdn.net",
+        "ad.iwhop.cn",
+        "s-odx.oleads.com",
+        "mediation.unity3d.com",
+        "cdn-ad.wtzw.com",
+        "appsrv.display.io",
+        "ad.line-scdn.net",
+        "splash-ad.classting.com",
+        "ad-files.classting.com",
+        "v16-ad.byteoversea.com",
+        "psvpromo.psvgamestudio.com",
+        "static.timetreeads.com",
+        "zgzxs.weathercn.com",
+        "ads.rmbl.ws",
+        "adsassets-ipv6.waze.com",
+        "iads.unity3d.com",
+        "togothermany.com",
+        "rtblab.net",
+        "lacunads.com",
+        "ruuaqkw.com",
+        "prod.adjoe.zone",
+        "mads.amazon.com",
+        "p16-ad.byteoversea.com",
+        "mtgglobals.com",
+        "pgdt.gtimg.cn",
+        "cmshow.gtimg.cn",
+        "projecta-common-1258344701.file.myqcloud.com",
+        "ads-sdk.nianticlabs.com",
+        "ad.mediamixer.co.kr",
+        "adfork.co.kr",
+        "ad.zijieapi.com",
+        "pglstatp-toutiao.com",
+        "open.e.kuaishou.cn",
+        "open.e.kuaishou.com",
+        "open.kuaishouzt.com",
+        "open.kwaizt.com",
+        "ali-ad.a.yximgs.com",
+        "tx-ad.a.yximgs.com",
+        "tx-kmpaudio.pull.yximgs.com",
+        "hw-ot-ad.a.yximgs.com",
+        "adkwai.com",
+        "marketing.mangacopy.com",
+        "gdfp.gifshow.com",
+        "p1-lm.adukwai.com",
+        "audiomob.com",
+        "ads-api.kidsnote.com",
+        "stream.spongead.com",
+        "naverpa-phinf.pstatic.net",
+        "tivan.naver.com",
+        "veta.naver.com",
+        "pangolin16.sgsnssdk.com",
+        "ads.adadapted.com",
+        "mtag.mman.kr",
+        "hybird.rayjump.com",
+        "anythinktech.com",
+        "d3hdbjtb1686tn.cloudfront.net",
+        "s.hisp.in",
+        "toponadss.com",
+        "adcs.myappsget.com",
+        "adsassets.waze.com",
+        "ads-resources.waze.com",
+        "ad.simpledesign.ltd",
+        "ads-sdk.mattel163.com",
+        "bdapi-ads.realmemobile.com",
+        "ads.oppomobile.com",
+        "adsfs.oppomobile.com",
+        "offerwall.yandex.net",
+        "adsmrapi.imbc.com",
+        "ads.imbc.com",
+        "skt-asum.com",
+        "bdapi-in-ads.realmemobile.com",
+        "bjads.bejbej.ca",
+        "hellay.net",
+        "rqmob.com",
+        "ads-server.mxplay.com",
+        "mxaserver.mxplay.com",
+        "contextualadv.com",
+        "tk0x1.com",
+        "displayio.cloud",
+        "sdkv2.imaginationunwired.com",
+        "api-ad-adapter.wps.com",
+        "nasimobi.com",
+        "im.ov.yahoo.co.jp",
+        "thecatmachine.com",
+        "blueduckredapple.com",
+        "mobilefuse.com",
+        "api-ad-callback.mobiuspace.net",
+        "hb.rayjump.com",
+        "gdl.i9dhjx.ru",
+        "mobidriven.com",
+        "liftoff-creatives.io",
+        "everestop.io",
+        "mmp001.scalemonk.com",
+        "promotionad.nvcam.net",
+        "ad.nvdvr.cn",
+        "krt.asycxtz.cn",
+        "erg.ihclam.cn",
+        "ob.leap.app",
+        "qist.me",
+        "ads-gdl.imovideo.ru",
+        "ads.imovideo.ru",
+        "adsbynimbus.com",
+        "adsgard.aprod.scopely.io",
+        "ads-interfaces.sc-cdn.net",
+        "adsapi.snapchat.com",
+        "adx-dre.op.hicloud.com",
+        "amanad.adtdp.com",
+        "ad.sxp.smartclip.net",
+        "api.itpub.cloud",
+        "adv-front.devpnd.com",
+        "mintegral.com",
+        "skadsdk.appsflyer.com",
+        "alt-ad.mail.ru",
+        "chavoads.com",
+        "r2d2.aotter.net",
+        "tkcatrun.aotter.net",
+        "cdn.jampp.com",
+        "imgx.jampp.com",
+        "static.jampp.com",
+        "adx-tk.rayjump.com",
+        "dspunion.com",
+        "rossoad.com",
+        "athena.api.kwalee.com",
+        "mobondhrd.appspot.com",
+        "api.ads.newsdigest.jp",
+        "mobi.yanosik.pl",
+        "mobileadvertiser.yanosik.pl",
+        "videoads-cloud.rovio.com",
+        "vmap.v.ad-generation.jp",
+        "iyes.youku.com",
+        "adg.kajicam.com",
+        "exelbid.com",
+        "ssp-ad.momento.dev",
+        "adpies.com",
+        "cs02-pps-drcn.dbankcdn.com",
+        "an.facebook.com",
+        "live.hyprmx.com",
+        "static.hyprmx.com",
+        "prod.cm.publishers.advertising.a2z.com",
+        "dm.isnssdk.com",
+        "h5.isnssdk.com",
+        "hotapi-va.isnssdk.com",
+        "i.isnssdk.com",
+        "i16-tb.isnssdk.com",
+        "ichannel.isnssdk.com",
+        "imapi-sg.isnssdk.com",
+        "open.isnssdk.com",
+        "pangolin16.isnssdk.com",
+        "tnc16-alisg.isnssdk.com",
+        "tnc16-useast1a.isnssdk.com",
+        "app.adjust.world",
+        "app.adjust.net.in",
+        "ads.feelingtouch.com",
+        "ad.tencentmusic.com",
+        "ads.iosappsworld.com",
+        "ads-cloud.rovio.com",
+        "aag.yahooapis.jp",
+        "goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com",
+        "adcel.co",
+        "offerwall-adnative.com",
+        "ads.edadeal.ru",
+        "pr.comet.yahoo.com",
+        "tapjoy.com",
+        "tapjoy.net",
+        "tradplusad.com",
+        "ad-channel.wikawika.xyz",
+        "cads.scalemonk.com",
+        "adspot.tfgapps.com",
+        "analytics.scalemonk.com",
+        "adpopcorn.com",
+        "pangle.io",
+        "pubnative.info",
+        "ad.leap.app",
+        "cl-ad.x-flow.app",
+        "soundcloud-pax.pandora.com",
+        "promoted.sndcdn.com",
+        "adservice.tohsoft.com",
+        "delivery-cdn-cf.adswizz.com",
+        "appboy-images.com",
+        "ad.particlenews.com",
+        "ad.wynk.in",
+        "pushad.metajoy.services",
+        "ad.snappea.com",
+        "adtimaserver.vn",
+        "api.mediation.amberweather.com",
+        "aqi.wd.amberweather.com",
+        "adslog.apexinnotech.com",
+        "matrix.dailyinnovation.biz",
+        "powerlinks.com",
+        "dotomi.com",
+        "adentifi.com",
+        "springserve.com",
+        "aniview.com",
+        "addata.mediacategory.com",
+        "dm.toutiao.com",
+        "ads-leaseweb.appsgeyser.com",
+        "ads.appsgeyser.com",
+        "adtorque.in",
+        "configuration.ttpsdk.info",
+        "gateway.ttpsdk.info",
+        "promo-images.ttpsdk.info",
+        "s3.ttpsdk.info",
+        "api.applovefrom.com",
+        "iam.datasavannah.com",
+        "yovoads.com",
+        "restartad.com",
+        "appgiftwall.oss-us-west-1.aliyuncs.com",
+        "appgift.sinaapp.com",
+        "servedby.o2.co.uk",
+        "amillionads.com",
+        "mcoreads.com",
+        "onlineapi.youappi.com",
+        "ssp.otm-r.com",
+        "networksdk.ssacdn.com",
+        "tapsell.ir",
+        "jioads.akamaized.net",
+        "ajdivotdelbloab24.jio.com",
+        "adxcorp.kr",
+        "tw-api.vpon.com",
+        "imrworldwide.com",
+        "tccbanner.com",
+        "ads-game-configuration-master.ads.prd.ie.internal.unity3d.com",
+        "cdp.cloud.unity3d.com",
+        "data-optout-service.uca.cloud.unity3d.com",
+        "thind-gke-euw.prd.data.corp.unity3d.com",
+        "unityads.unity3d.com",
+        "nkis.nikkei.com",
+        "gameanalysis.appcpi.net",
+        "ads.bulldogcpi.com",
+        "other.appcpi.net",
+        "d19xf4taj229i8.cloudfront.net",
+        "cafe-latte.myshoplus.com",
+        "luckyforworlds.com",
+        "cdn-adn.rayjump.com",
+        "buysellads.com",
+        "casino-ad-mediation.me2zengame.com",
+        "promoted.soundcloud.com",
+        "activity.browser.intl.miui.com",
+        "api.brs.intl.miui.com",
+        "api.newsfeed.intl.miui.com",
+        "adv.sec.intl.miui.com",
+        "adsrvr.io",
+        "data2.doodlemobile.com",
+        "d239g0z67jcted.cloudfront.net",
+        "newfeatureview.perfectionholic.com",
+        "featured.perfectionholic.com",
+        "crosspromo.voodoo.io",
+        "abtest.mistat.xiaomi.com",
+        "liftoff.io",
+        "tapdaq-adverts.global.ssl.fastly.net",
+        "rtb.appbid.com",
+        "rtapi.abbi.io",
+        "look.kfiopkln.com",
+        "tveta.naver.net",
+        "deliveryengine.adswizz.com",
+        "sitemaji.com",
+        "adsapi.manhuaren.com",
+        "euadsapi.manhuaren.com",
+        "msg.ettoday.net",
+        "ad-ettoday.cdn.hinet.net",
+        "adv-ettoday.cdn.hinet.net",
+        "adv.ettoday.net",
+        "startappservice.com",
+        "tkcatwalk.aotter.net",
+        "tkmedia.aotter.net",
+        "tkmedia-cache.aotter.net",
+        "tkportal.aotter.net",
+        "client.midosoo.com",
+        "sc.smardroid.com",
+        "pssvc.iqzone.com",
+        "cdn-cf.postitial.com",
+        "opt8.co",
+        "ads-bidder-api.twitter.com",
+        "speee-ad.akamaized.net",
+        "ads.jianchiapp.com",
+        "abroad-ad.kingsoft-office-service.com",
+        "agent.tamedia.com.tw",
+        "www.adbert.com.tw",
+        "tw.api.vpon.com",
+        "sdk.adtiming.com",
+        "adsmogo.net",
+        "adsmogo.mobi",
+        "chartboosts.com",
+        "mobpowertech.com",
+        "ap.smardroid.com",
+        "splicky.com",
+        "cdn.batmobi.net",
+        "adn.insight.ucweb.com",
+        "tkmftc.aotter.net",
+        "d32z5ni8t5127x.cloudfront.net",
+        "sumatoad.com",
+        "gdn.bigfishgames.com",
+        "883.engine.mobileapptracking.com",
+        "ad.daum.net",
+        "nickhel.com",
+        "redtram.com",
+        "oconner.biz",
+        "et-code.ru",
+        "gynax.com",
+        "api.ad-locus.com",
+        "023hysj.com",
+        "lxqcgj.com",
+        "betsonsport.ru",
+        "holder.com.ua",
+        "crosspromotion-us.avosapps.us",
+        "ad.period-calendar.com",
+        "cpactions.com",
+        "native.cli.bz",
+        "adplatform.vrtcal.com",
+        "appodealx.com",
+        "go.vrvm.com",
+        "c.vrvm.com",
+        "cls.vrvm.com",
+        "nycp-hlb.dvgtm.akadns.net",
+        "abbott.vo.llnwd.net",
+        "behance.vo.llnwd.net",
+        "synthes.vo.llnwd.net",
+        "teachscape.vo.llnwd.net",
+        "tmz.vo.llnwd.net",
+        "videoplus.vo.llnwd.net",
+        "wdig.vo.llnwd.net",
+        "appnext.hs.llnwd.net",
+        "adsdk.vrvm.com",
+        "moatads.com.edgekey.net",
+        "a.applvn.com",
+        "adslot.uc.cn",
+        "disqusads.com",
+        "api.cloudmobi.net",
+        "polymorphicads.jp",
+        "cdns.lodeo.io",
+        "ingamesads.gameloft.com",
+        "i2ad.jp",
+        "mxvp-ad-config-prod-1.zenmxapps.com",
+        "mxvp-feature-toggle-prod-1.zenmxapps.com",
+        "zzhengre.com",
+        "go.admost.com",
+        "med-api.admost.com",
+        "cdn-api.admost.com",
+        "bidsopt.com",
+        "tpbid.com",
+        "exe.bid",
+        "hyperadx.com",
+        "admarvel.com",
+        "mopub-win-us-east.bksn.se",
+        "nativead.s3.amazonaws.com",
+        "c2i.startappnetwork.com",
+        "c2s.startappnetwork.com",
+        "apptornado.com",
+        "api.pingstart.com",
+        "setting.rayjump.com",
+        "net.rayjump.com",
+        "ad.cauly.co.kr",
+        "config.appjolt.com",
+        "adflake.com",
+        "ads.aitype.net",
+        "ad-creatives-public.commondatastorage.googleapis.com",
+        "1mp.mobi",
+        "247realmedia.com",
+        "abnad.net",
+        "abtest.swrve.com",
+        "ad-brix.com",
+        "ad-x.co.uk",
+        "ad.apps.fm",
+        "ad.apsalar.com",
+        "ad.jorte.com",
+        "ad.leadboltapps.net",
+        "ad.ohmyad.co",
+        "ad.smaad.jp",
+        "ad.vrvm.com",
+        "ad6media.fr",
+        "adadvisor.net",
+        "adblade.com",
+        "adcamp.ru",
+        "adcel.vrvm.com",
+        "adcolony.com",
+        "addapptr.com",
+        "adforgames.com",
+        "adform.com",
+        "adfox.ru",
+        "adgear.com",
+        "adgrx.com",
+        "adhitzads.com",
+        "adhood.com",
+        "adinfo.tango.me",
+        "adition.com",
+        "adkmob.com",
+        "adleads.com",
+        "adlibr.com",
+        "adman.gr",
+        "admarketing.yahoo.net",
+        "admarvel.s3.amazonaws.com",
+        "admedia.com",
+        "admicro1.vcmedia.vn",
+        "admixer.co.kr",
+        "admulti.com",
+        "adonly.com",
+        "vm5apis.com",
+        "adprotected.com",
+        "adproxy.tf1.fr",
+        "adpublisher.s3.amazonaws.com",
+        "adquota.com",
+        "ads.ad2iction.com",
+        "ads.aerserv.com",
+        "ads.mobilityware.com",
+        "ads.mobvertising.net",
+        "ads.mopub.com",
+        "ads.pdbarea.com",
+        "ads.pinger.com",
+        "ads.taptapnetworks.com",
+        "ads.xlxtra.com",
+        "adsee.jp",
+        "adserver.goforandroid.com",
+        "adserver.kimia.es",
+        "adserver.pandora.com",
+        "adshost2.com",
+        "adsmo.ru",
+        "adsmoloco.com",
+        "adsniper.ru",
+        "adsrvr.org",
+        "adtech.de",
+        "adtilt.com",
+        "adtrack.king.com",
+        "adultadworld.com",
+        "adv.mxmcdn.net",
+        "adversal.com",
+        "adverticum.net",
+        "advertise.com",
+        "advertur.ru",
+        "advombat.ru",
+        "adz.mobi",
+        "adzerk.net",
+        "adzmobi.com",
+        "amobee.com",
+        "api.fusepowered.com",
+        "api.usebutton.com",
+        "appclick.net",
+        "applifier.com",
+        "applovin.com",
+        "appnext-a.akamaihd.net",
+        "appsdt.com",
+        "appserver-ap.com",
+        "appshelf.ttpsdk.info",
+        "appwall.tv2phone.cn",
+        "as.adfonic.net",
+        "assoc-amazon.com",
+        "astrsk.net",
+        "atti.com",
+        "bannerflow.com",
+        "banners.etermax.com",
+        "bannersnack.com",
+        "bannerwall.herewetest.com",
+        "bannerwall.s3.appcnt.com",
+        "bayctrk.com",
+        "bcfads.com",
+        "begun.ru",
+        "bepolite.eu",
+        "bet365affiliates.com",
+        "betrad.com",
+        "bigmobileads.com",
+        "black6adv.com",
+        "blogads.com",
+        "boostads.net",
+        "brealtime.com",
+        "bubblesmedia.ru",
+        "burstnet.com",
+        "buzzcity.net",
+        "buzzonclick.com",
+        "c8.net.ua",
+        "cashprom.ru",
+        "cdn-image.com",
+        "celtra.com",
+        "cf-ads.pinger.com",
+        "chango.com",
+        "chartboost.com",
+        "clk.taptica.com",
+        "comscore.com",
+        "config.tremorhub.com",
+        "cp.pushwoosh.com",
+        "crispadvertising.com",
+        "crossboardmobile.com",
+        "csi.gstatic.com",
+        "ctl.buyt.in",
+        "d2nrdy2pg3k168.cloudfront.net",
+        "d830x8j3o1b2k.cloudfront.net",
+        "debojuagug1sf.cloudfront.net",
+        "dev.appboy.com",
+        "dumedia.ru",
+        "e-planning.net",
+        "e.apsalar.com",
+        "e.qq.com",
+        "eltrafiko.com",
+        "emediate.eu",
+        "epom.com",
+        "etargetnet.com",
+        "exponential.com",
+        "fiksu.com",
+        "fluentmobile.com",
+        "flurry.cachefly.net",
+        "flurry.com",
+        "flygo.ru",
+        "focas.jp",
+        "friendlyduck.com",
+        "fyber.com",
+        "geede.info",
+        "go.mobstitialtag.com",
+        "googleadservices.com",
+        "gts-ads.twistbox.com",
+        "gumgum.com",
+        "ha-api.pushwoosh.com",
+        "heyzap.com",
+        "houseads-prod.elasticbeanstalk.com",
+        "houseads.ttpsdk.info",
+        "httpool.com",
+        "huntmad.com",
+        "i-vengo.com",
+        "i.skimresources.com",
+        "iad.appboy.com",
+        "iadsdk.apple.com",
+        "infolinks.com",
+        "ads.inmobi.com",
+        "config.inmobi.com",
+        "glance.inmobi.com",
+        "inmobi.net",
+        "inmobi.cn",
+        "inmobicdn.net",
+        "inmobisdk-a.akamaihd.net",
+        "inner-active.com",
+        "inner-active.mobi",
+        "innovid.com",
+        "integral-marketing.com",
+        "intermarkets.net",
+        "intowow.com",
+        "investingchannel.com",
+        "justad.mobi",
+        "kiosked.com",
+        "kochava.com",
+        "komoona.com",
+        "krutilka.net",
+        "l0-secure.videohub.tv",
+        "l3op.info",
+        "lb.usemaxserver.de",
+        "leadboltads.net",
+        "leanplum.com",
+        "mad.mobisky.pl",
+        "madnet.ru",
+        "manage.com",
+        "mbn.com.ua",
+        "medialand.ru",
+        "meendocash.com",
+        "metamx.com",
+        "mgage.com",
+        "mi.gdt.qq.com",
+        "mixadvert.com",
+        "moba8.net",
+        "mobads.baidu.com",
+        "mobclix.com",
+        "mobfox.com",
+        "mobiads.ru",
+        "mobilecore.com",
+        "mobiledl.adboe.com",
+        "mofox.com",
+        "mtburn.jp",
+        "mtrcss.com",
+        "mydas.mobi",
+        "nanigans.com",
+        "nativex.com",
+        "nearbyad.com",
+        "nend.net",
+        "netavenir.com",
+        "netseer.com",
+        "netshelter.net",
+        "networld.hk",
+        "newsnet.in.ua",
+        "nexac.com",
+        "novostimira.biz",
+        "numbers.md",
+        "os.scmpacdn.com",
+        "partnerearning.com",
+        "perf-events.cloud.unity3d.com",
+        "pflexads.com",
+        "phluant.com",
+        "pixel.admobclick.com",
+        "playhaven.com",
+        "pontiflex.com",
+        "pub1.co",
+        "pubnative.net",
+        "questionmarket.com",
+        "rotaban.ru",
+        "saymedia.com",
+        "scorecardresearch.com",
+        "sdk.starbolt.io",
+        "servebom.com",
+        "sessionm.com",
+        "shareasale.com",
+        "sharethrough.com",
+        "silvermob.com",
+        "i.singular.net",
+        "sdk-api-v1.singular.net",
+        "skadnetwork.singular.net",
+        "sitescout.com",
+        "sonobi.com",
+        "splash.appsgeyser.com",
+        "sscefsol.com",
+        "stat.kika-backend.com",
+        "supersonicads-a.akamaihd.net",
+        "supersonicads.com",
+        "swelen.com",
+        "switchadhub.com",
+        "syndication.trafficreps.com",
+        "tap-nexus.appspot.com",
+        "tapit.com",
+        "tapone.jp",
+        "tappx.com",
+        "tapsense.com",
+        "targetspot.com",
+        "thetrafficstat.net",
+        "tizerclik.com",
+        "tm1.hoiplay.com",
+        "tonefuse.com",
+        "trackimpression.com",
+        "tracking.applift.com",
+        "trafmag.com",
+        "traktum.com",
+        "trc.taboola.com",
+        "trk.glispa.com",
+        "tubemogul.com",
+        "turn.com",
+        "u-ad.info",
+        "ultraadserver.com",
+        "umbel.com",
+        "unicume.com",
+        "upsight.com",
+        "usekahuna.com",
+        "velti.com",
+        "vserv.mobi",
+        "vungle.com",
+        "waiads.com",
+        "wapstart.ru",
+        "west.bidtellect.com",
+        "widespace.com",
+        "wordego.com",
+        "presage.io",
+        "wtraff.com",
+        "ximad.com",
+        "yandexadexchange.net",
+        "yc-ads.s3.amazonaws.com",
+        "yieldkit.com",
+        "yieldmo.com",
+        "yllix.com",
+        "youmi.net",
+        "zedo.com",
+        "n152adserv.com",
+        "smilered.com",
+        "cloudads-a.akamaihd.net",
+        "api.plyair.com",
+        "gamaibids.com",
+        "gamerplay67.space",
+        "imprdom.com",
+        "loganmedia.mobi",
+        "lqm.io",
+        "pn.ybp.yahoo.com",
+        "staticcc.com",
+        "adcenter-api.cashwalk.co",
+        "ads.viber.com",
+        "ads-d.viber.com",
+        "adcs.rqmob.com",
+        "preitem.wshareit.com",
+        "api-a.op-mobile.opera.com",
+        "promotion.polarisoffice.com",
+        "newad.ifeng.com",
+        "etl.tindersparks.com",
+        "sensors.larkplayerapp.com",
+        "log.kajicam.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "m.yap.yahoo.com"
+      ],
+      "excludedInitiatorDomains": [
+        "not.dns"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||adv0*.msa.cdn.mediaset.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||gwrtdp-tn690bfadt.tclclouds.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/(a|c)\\.[0-9a-f]{56}\\.com$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "regexFilter": "^(a|c)\\.[0-9a-f]{56}\\.com$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "/adunion/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||adapi*.boomplaymusic.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||get*bannerads-6egeg2u34q-du.a.run.app^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*-normal*.zijieapi.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad*.zonaplus.tv^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||api16-access-ttp*.tiktokpangle-b.us^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||creative*.bidease.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*-normal-*.zijieapi.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "-adx-*.rayjump.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*.textra.me^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads-*-nfl.yinzcam.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||aan.amazon."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*.production-public.tubi.io^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||mob*.novanewsapp.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad-*.amazonaws.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*-normal-lq.zijieapi.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||v*-ad.video.yximgs.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*.bojijulebu.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||ir-new-cdn-eu-west-*-hb.rayjump.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||tnc16-*.byteoversea.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||adcs-*.myappsget.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||prebid-cache*.ifunny.co^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobiadvert*.livesportmedia.eu^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||jtbo*.nqxvevk.cn^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||adx-*.dbankcloud."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad-*.appacc.dbankedge.cn^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||adx-*.dbankedge.cn^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||adx-*.op.dbankcloud.com.edgekey.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketplace-*.hyprmx.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||events-*.op.hicloud.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||iad-*.braze.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.mail.ru"
+      ],
+      "excludedInitiatorDomains": [
+        "e.mail.ru",
+        "octavius.mail.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||ms*.applvn.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||api*.bidmachine.io^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||banner.*.tccapis.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn-adn-*.rayjump.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/cp4pox^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||dsp.batmobil.net/ads-dsp^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||api*.batmobi.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||api*.batmobil.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||adserver.*.yahoodns.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad*.nexage.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||iad-*.appboy.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||imwx.com/mobile/adconfig/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediate-ios-*.hyprmx.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||production-adserver-*.amazonaws.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||rtbimp-loadbalancer-*.amazonaws.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.eisamay.com/detector.cms"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||samayam.com/detector.cms"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/?ss="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/adfurikun/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "/aff_c?*offer_id=*&aff_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "/aff_r?*offer_id=*&aff_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||rt.api.glispa.com/native/v1/ad"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||doodlemobile.com/feature_server/fullscreen/get.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||doodlemobile.com/feature_server/geo-ip/test.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloud.rovio.com/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||banner.globalsolutions.uz/api/getbanners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.taboola.com/*/recommendations.multiple-get^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.taboola.com/*/recommendations.get^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.tinyhoneybee.com/api/getadconfig"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.tinyhoneybee.com/api/getadresource"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||50.17.161.250/appodeal/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||52.87.215.72/oapi/getad"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||78.138.126.253/www/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||83.222.115.150/?type="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.outfit7.com/rest/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.outfit7.com/promo-nc"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||cm.ksmobile.com/api/getcloudmsgadv^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/appodeal"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||f.doodlemobile.com:8080/feature_server_v3/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotoable.com/advertise/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||gluservices.s3.amazonaws.com/pushnotifications"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/ads/search/app?*&caps=*sdkadmobapiforads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoodrunner.kiloo.com/newonlinesettings.php?platform=android"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||launchermsg.3g.cn/golaunchermsg/advservice.do"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.tubemate.net/c.jsp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||mads.*.pinenutsdev.net/md.request.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobilityware.com/adparams/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||presselite.com/iphone/pushnotification/interstitiel_android.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||rayjump.com/openapi/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||sinst.fwdcdn.com/_uploaded_files/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||smart.tinyhoneybee.com/log/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||tb.beeline.ru/scripts/app/anchorcompiled.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube.com/api/stats/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||graph.facebook.com/network_ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "://yandex.ru/appcry|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||sooplive.com/data/af_app_ad_mobile.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||turner.com/xslo/cvp/ads/",
+      "initiatorDomains": [
+        "cnn.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||images-*.ssl-images-amazon.com/images/*/ape/sf/masf-*_.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamekillerapp.com/ad-top.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.xtales.top/static/images/wm-banner-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||katitube.com/kati/mobil/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||farsroid.com/wp-content/uploads/farsroid-ads-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||yxshufang.com/public/060819.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||apis.pchome.com.tw/pfb_ad.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.xp600.com/js/*.js?v="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.mydrivers.com"
+      ],
+      "urlFilter": "||kkeji.com/img/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||wikwik.org/a1.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||ogfap.com/_astro/adcontainer."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||gays-cruising.com/nb/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||image.entabe.jp/img/elife/300_250.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||lettuceclub.net/asset/js/job_box_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.v.qq.com"
+      ],
+      "urlFilter": "||vm.gtimg.cn/thumbplayer/creative/*/creative-player-m.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.wear2.jp/connect/v1/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.wear2.jp/connect/v1/zozo_ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "3wwd.com"
+      ],
+      "regexFilter": "m\\.3wwd\\.com\\/(public|static)\\/\\d+\\.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||naughtymachinima.com/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||ig-store.ru/publications/get-banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "czechcash.com"
+      ],
+      "initiatorDomains": [
+        "xfree.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||cp-jobmacha-servicemacha-widgets.oss-ap-southeast-3.aliyuncs.com/chinapress-jobads-prod.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||asmhentai.com/js/ajs_v2.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.iyinghua.com/bar/gudingb.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||therepublic.com/wp-content/uploads/*/km_digital_ad_mobile_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.media.cld.navitime.jp/scripts/media/web/infeed/realestate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||kyujin.navitime.co.jp/view/platform/banner?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||navitime.co.jp/static/pc/l/202502041800/img/sp/transfer/searchlist/banner-s-ride-sp-last-train.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||gigafile.nu/images/banner/kbus_375x100.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.eenadu.net/*/*/ampads.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc2.com/o/o/i/ooiotakara/apad_rank10_all5_1.js",
+      "initiatorDomains": [
+        "ooiotakara.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/adv/",
+      "initiatorDomains": [
+        "deai.twitterid.net",
+        "idkeijiban.com",
+        "kakaoid.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||4gamer.net/css/pr/sp_topjack.css"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||erogaroku.com/ad/",
+      "initiatorDomains": [
+        "bakufu.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||nagpurtoday.in/wp-content/uploads/2024/06/untitled-design-2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.xianqihaotianmi.org/4ensm9hu/*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/wp-content/uploads/*/rek_*.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||thumbor.4gamers.com.tw/*/*ads-media*.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||niji-gazo.com/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||city.tsuyama.lg.jp/common/photo/banner_ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||korewaeroi.com/wp-content/wptouch-data/themes/classic-redux-copy-1/default/push11.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.j-basketball.club/banner/pr.jpg",
+      "initiatorDomains": [
+        "jukenbbs.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||korewaeroi.com/wp-content/wptouch-data/themes/*/default/ad"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||korewaeroi.com/fukugan_sp_3x4_rec.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mentoday.ru"
+      ],
+      "urlFilter": "||frontend.vh.yandex.ru/player/*&adconfig="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||sumaity.com/ui/utility/sp/images/bnr/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "d-load.org"
+      ],
+      "initiatorDomains": [
+        "2ch-c.net",
+        "get2ch.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||2ch-c.net/mgs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "biqiugexx.com"
+      ],
+      "regexFilter": "\\/js\\/[djpf]{2}(ad)?.*a\\d{2}\\.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||shfsdvc.com/*/banner/html/zone"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.airporthaber.com/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||templates.stroeerdigital.de/[prod]_mobileexpandablestickyfooter.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||otzovik.com/scripts/function/iri2.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.tbiquge.com/scripts/rd8v.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||eromanga-musou.com/fammusou1.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||image.suning.cn/uimg/zr/share_order/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||rakuten-sec.co.jp/web/images/banners/ads_mobile_un-limit/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||okkazeo.com/img/habillage/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.eprice.com.tw/img/dis/file/*-f.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "/owa.nativeadlist.js",
+      "initiatorDomains": [
+        "outlook.live.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||bl-doujinsouko.com/fam2.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||wap.xs7.cc/m.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "as.uncn.jp"
+      ],
+      "initiatorDomains": [
+        "rocketnews24.com",
+        "soranews24.com",
+        "youpouch.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "outbrainimg.com"
+      ],
+      "initiatorDomains": [
+        "rocketnews24.com",
+        "soranews24.com",
+        "youpouch.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cumhuriyet.com.tr"
+      ],
+      "urlFilter": "||cdn.ampproject.org/v*/amp-ima-video-*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||dfu7.com/jiayou/sogou"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||doujinnomori.com/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "setn.com"
+      ],
+      "urlFilter": "||rfp.dspcdn.com/tags/*.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.xiaoxiangxs.com/public/js/zepto-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||helloprojects.up.seesaa.net/image/e381a1e38287e381a3e381a8e381a0e38191-3fe11-thumbnail2.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||eda.ru/_next/static/images/banner_adv"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.sxnarod.com/newrek/bng_mb_bn.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||tonxton.com/sp-ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.mycar-life.com/amp-itd.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.mycar-life.com/amp-side-special01.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||omezame.biz/wp-content/themes/buzzmake/js/modal."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||niji-gazo.com/api/dmm/affiliate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||kalerkantho.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||game8.jp/assets/smart_phone/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||chat-lab.tokyo/adcode.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||heavy-r.com/js/mobile*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||mzamin.com/advert/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.cdsvyatka.com/btaho.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||eromanga-castle.com/famsiro1.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||seesaa.net/common/under.html",
+      "initiatorDomains": [
+        "news4wide.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||afisha.cheb.ru/css/ban/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||ebbs.jp/js/adjs01.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||ebbs.jp/test_ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||recipe.rakuten.co.jp/webinfo/sp/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "/lite2/ads.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "/lite2/ads/infeed.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailyportalz.jp/api/dpz/adposts|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||cpcdn.com/assets/device/ad/",
+      "initiatorDomains": [
+        "cookpad.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||3bitter.com/apbk-hbonetag.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||books.rakuten.co.jp/books/img/js/smart/sp-footer-ad-banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||mx-movie.nan-net.jp/system/s-profile/banner/mx_bottom/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||1000mg.jp/ad_com1.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||ocdn.eu/ramp/*/sponsoring-mobile-float-universal/*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||k-img.com/script/fixed_bnr_area.js",
+      "initiatorDomains": [
+        "s.kakaku.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamerch.com/s3-assets/js/system/gcad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||poiful.com/sdk/vrizeadsdk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||chesterstream.akamaized.net/chester-adcross/",
+      "initiatorDomains": [
+        "ameblo.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.soxscc.net/wsc/los.*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||smart-flash.jp/wp-content/themes/original/embed/foneh"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||smart-flash.jp/yahoo_ad.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc2.com/video/js/u/sp/hdr/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc2.com/video/js_smartphone_new/out/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||video.fc2.com^*/suggest_list_ad.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||smaero.jp/advimg/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "/x-3111-33.js",
+      "initiatorDomains": [
+        "pianku.li"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||timesofindia.indiatimes.com/affiliate_new.cms?",
+      "initiatorDomains": [
+        "gadgetsnow.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||obmenvsem.org/static/images/*banners*450x75.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mephimnhat.com"
+      ],
+      "urlFilter": "/sponsor/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||mephimnhat.com/vast*.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||renote.*/assets/sp_inline_ad_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||renote.*/assets/sp_overlay_ad_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.manhuafen.com"
+      ],
+      "urlFilter": "||c.mipcdn.com/*/*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||sspstatic.1905.com/static/selling.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.8shuku.net/wap/tj1.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.xs26.com/wap.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn-eviewporn-com.cdn.ampproject.org/i/cdn.eviewporn.com/_reklam/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||image.whox2.co.kr/*/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "zxzj.me"
+      ],
+      "regexFilter": "\\/slade[0-9]?\\.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bd1.guancha.cn"
+      ],
+      "initiatorDomains": [
+        "m.guancha.cn"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bd2.guancha.cn"
+      ],
+      "initiatorDomains": [
+        "m.guancha.cn"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||jmty.jp/s/geniee/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.gufengmh8.com/mip/*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||r.trojmiasto.pl/www/images/",
+      "initiatorDomains": [
+        "m.trojmiasto.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||j.wfcdn.de/j/iframes/outbrain_",
+      "initiatorDomains": [
+        "winfuture.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.sporx.com/_js/postitial_check.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.karar.com/imgs/banner970x250.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||leku99.net/js/*/ytou.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||leku99.net/js/bottom.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||6080aa.com/zhongguo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||xdytt.com/b_*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "youjizz.com"
+      ],
+      "urlFilter": "||cdn.nsimg.net/cache/landing/pr/*/yjmobile-*.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||23wxc.com/js/adgd.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||cqsng.com/mm.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||huanjugu.com/dm289*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||xinqingdou.com/dist/vue/element.*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||999xs.com/safari.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||999xs.com/*/1xhtml?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.sellwild.com/amp/insideevs",
+      "initiatorDomains": [
+        "insideevs-com.cdn.ampproject.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||yqingge.com/wap.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||stern.de/vergleich/wp-content/themes/stern/*/iframe-startseite"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||meijuck.com/js/dfw.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "alicdn.com"
+      ],
+      "initiatorDomains": [
+        "m.6080w.com",
+        "m.petdianping.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.shazi8.com/mg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||mm.shazi8.com/mg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "3aym.cn"
+      ],
+      "regexFilter": "jx.3aym.cn\\/[0-9]{1,6}.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.6080w.com/d.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||app-liv.jp/js/sp/detect_adblock.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||muzmob.org/*ame_*.php?iframe_id=_*.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.yeniakit.com.tr/anlasma"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||media-imdb.com/images/*/imdbads/js/collections/admobileweb-*._*_.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.lewen.la/wap.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||mgsm.pl/js/get*adsmobile.xhtml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "biqubao.com",
+        "xhxswz.com"
+      ],
+      "urlFilter": "/*xmtl"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/embed/live/techbook/affiliate^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.manhuafen.com/js/mhf.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.salihlisektorgazetesi.com/mobil-reklam-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": ".html?",
+      "initiatorDomains": [
+        "wap.dulaidw.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": ".xhtmm?",
+      "initiatorDomains": [
+        "wap.dulaidw.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": ".htmm?",
+      "initiatorDomains": [
+        "m.69shu.io"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.mylust.com/js/mobile_scripts.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||static-cl.xhcdn.com/xh-mobile/js/*.pop.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "music-radio.ru"
+      ],
+      "regexFilter": ":\\/\\/[A-Za-z0-9]+.ru\\/[A-Za-z0-9]{20,25}.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||forum.lowyat.net/random-mobile.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobiltelefon.ru/photo/bg/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "blog-sokuhou.com"
+      ],
+      "initiatorDomains": [
+        "bakufu.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||motherless.com/floater_iframe.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||firebaseio.com/promo_view.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.ithome.com/api/lapin/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.mylust.com/jwpo^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||mylust.com/images/mobile/mobile_advirtisement_250.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||dastelefonbuch.de/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.txxx.com/sizo^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.alphaporno.com/adman_ai/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "/widgets/exo",
+      "initiatorDomains": [
+        "animeland.tv",
+        "kiss-anime.me"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||cartoon-sex.tv/z/cartoontube-300x100.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/suramar/pu.min.js^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||deutsche-mittelstands-nachrichten.de/wp-content/wptouch-data/include/js/dmn_interstitial_mobile.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||ddreminder.appspot.com/android_ad_target.txt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||twrailpolice.appspot.com/full_ad_priority.txt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||twrailpolice.appspot.com/campaign.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||54.169.80.245/ad^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||zaytung.com/images/radore"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||61saat.com/_themes/hs-rush-php/mobil/scripts/modal.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||giga.de/static-local/dist/theme/assets/js/module/giga-*.mobile-stopper.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||andro-news.com/images/content/andronews_banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||andro-news.com/images/content/for_website_andro_news.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.realgfporn.com/th^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "regexFilter": "m.realgfporn.com\\/[a-z]{1,13}[0-9]{1,13}[a-z]{1,13}.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||teknoseyir.com/wp-content/themes/ts/sponsor-mobile.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||vorsprung-online.de/images/images/*/werbung/bannermobilwerbung.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||tubous.fuckandcdn.com/tubous/tubousstatic/ads/mobile/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||ahmestatic.fuckandcdn.com/ah-me/ahmestatic/mobile/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||x99.nudevista.com/_/x*/*.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.fmhua.com/js/lbo1888.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobj.space/api/openoffer?asid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||gadgetsnow.com/ngwm/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.kuku.lu/smphone.footer.blockspecial.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||drive2.ru/assets/*/banner.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.outbrain.com/hub/amp.html",
+      "initiatorDomains": [
+        "indianexpress.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.kostprice.com/api/amp-widget",
+      "initiatorDomains": [
+        "m.gadgets.ndtv.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||pstatp.com/site/reads-sdk*/*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.toutiao.com/partner_recommend/*&url=http%3a%2f%2fm.duanwenxue.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "://*.rbc.ru/*/?target-ref=*&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||vijaykarnataka.com/vkmage/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.maharashtratimes.com/mtigm/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||cauly.co.kr/richad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||economictimes.com/etmpat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||48dreams.com/player/adstype/advmaker.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||addown.pipaw.com/phone/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||coandroid.ru/uploads/mobcoin.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||expertvaz.ru/wp-content/plugins/helper/inc/jquery.mobileinterestial"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.now.ru/*/mobilebannerview.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.20xs.cc/qirui/s/tss.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.shushu8.com/js/1*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.sports.ru/*/banner.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.telegraaf.nl/static/lib/bva-widget.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.wxrw123.com/style/js/feimobile.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.wxrw123.com/style/js/tongji.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlain-multiki.ru/config.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||oss-cn-shanghai.aliyuncs.com/feimobilea.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||sasisa.ru/images/*banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||sodu.cc/js/tj1.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||spac.me/js/mobiads.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.uniblue.com/media/spacecleaner/sc-post-script.min.js",
+      "initiatorDomains": [
+        "filext.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||ulm-news.de/image/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||veronicamagazine.nl/srv/*/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "widgets.outbrain.com"
+      ],
+      "initiatorDomains": [
+        "apkmirror.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||xxhrd.com/ns.php?p="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube.com/_get_ads?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||thetv.jp/js/common/kjbox-unit-loader_*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.wi-fi.ru/brandings/_cacheassets/branding.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.wi-fi.ru/brandings/rb/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||static0.wi-fi.ru/static/000/ios/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||baidu.com/po/api/configure/show.jsonp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||baidu.com/newspage/api/getmobads?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobile.donanimhaber.com/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||extmaps-api.yandex.net/promo/api/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||userapi.qiekj.com/slot/get"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||us.*.qwadro.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||bjsvp*.space^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||interface3.music.163.com/eapi/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||dinustudio.com/apis/theme/images/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||open.play.cn/api/*/show_advs.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||open.play.cn/api/*/show_advt.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||open.play.cn/api/*/load_advert.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||launcher-us.yeshen.com/external/advertisement/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||cleaner.noxgroup.org/activity/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||api2.appscraft.mobi/banner/get_banners.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||etnet.com.hk/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.rqmob.com/sa^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||stream.pcradio.ru/list/message/notifications_v2.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.ettoday.net/app/*/get_app_adlist^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||mail.google.com/mail/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2s.co/*?t="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2s.co/*/*.zip"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||ifengad.*.ifeng.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx.ssacdn.com/image/fetch/*supersonicads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||varravgames.com/advarserver/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||104.199.8.250^*/webservices/getdialogaddetails.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||todayweather.co/ads.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.bitmango.com/api/ad_manager"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.hh.ru/banners_targeting"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||crosspromo*.qplaze.com/pushcampaignxmlout.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||server.idreams.pl/news/ads_sfr_*.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.sport1.de/imagix/filter2/jpeg/_set=dyn_size_no_crop/imagix/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "||gumtree.com/partner/bing?*&adunitid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "||gumtree.com/partner/bingimpression?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "||market.xiaomi.com/download/adcenter/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||navigation.api.hk.goforandroid.com/api/*/website/navigations?virtual_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "||investingapp.net/ads_api.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudservice24.kingsoft-office-service.com/cards"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||igaworks.com/adpopcorn/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||config.sdk.scopely.io/*/android/ads_config.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.amazonaws.com/promos.withbuddies.com/prod/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "||spoofgames.com/prod/*.txt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.ezjoygame.com/update_android.json?os="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||staticaws.365scores.com/adsconfig/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||eamobile.com/gameasset/direct/draper/*/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobile-global.baidu.com/mbrowser/promotion/get_advertisement_conf?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "||vcdn.biz/*_mggads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||gameloft.com/*/index.ppp?ad="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobilemaps-pa.googleapis.com/google.internal.mothership.maps.mobilemaps.ads.v1.mobilemapsadsservice/listpromotedpinads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||mangaapi.manhuaren.com/*/public/getrecommendedgame^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.thehiveworks.com/images/bees/mobile",
+      "initiatorDomains": [
+        "smbc-comics.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mzstatic.com"
+      ],
+      "initiatorDomains": [
+        "rocketnews24.com",
+        "soranews24.com",
+        "youpouch.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||gstatic.com/shopping?q=tbn",
+      "initiatorDomains": [
+        "rocketnews24.com",
+        "soranews24.com",
+        "youpouch.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.anysex.com"
+      ],
+      "regexFilter": "^https?:\\/\\/m\\.anysex\\.com\\/[a-zA-Z]{1,4}\\/[a-zA-Z]+\\.php$",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2s.co/res/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||staff.livedoor.blog/slot-fallback",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "||i-pclub.com/m/ama_",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||i-pclub.com/m/randam_",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||tu93.org/mobile/w/*.min.js|",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc2.com/o/o/i/ooiotakara/ama",
+      "initiatorDomains": [
+        "ooiotakara.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc2.com/o/o/i/ooiotakara/ad_",
+      "initiatorDomains": [
+        "ooiotakara.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "||bqgeu.com/js/h",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "bqg.com/js/h",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/xxx/buhidoh/",
+      "initiatorDomains": [
+        "buhidoh.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||wap*.m.xuehongxs.com",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.anysex.com"
+      ],
+      "regexFilter": "^https?:\\/\\/m\\.anysex\\.com\\/[a-zA-Z]{1,4}\\/[a-zA-Z]+\\.php$",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cdn.sinparty.com"
+      ],
+      "initiatorDomains": [
+        "imgbox.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "||blogterest.net/regular/?i=",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||eroioshiri.blogterest.net/regular/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||nan-net.com/*/bbs/s/inc/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": ".libaishuo.com^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "://o0e.ru^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.*.com/pp.php?uid=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.brandseven.com/get^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "kiesta.net",
+        "painsko.com",
+        "adsmobila.com",
+        "ts166.net",
+        "postut.cn",
+        "adplex.co.kr",
+        "tnkfactory.com",
+        "iqzone.com",
+        "postitial.com",
+        "mobilebanner.ru",
+        "jssdk.rayjump.com",
+        "adtheorent.com",
+        "tongqing2015.com",
+        "31.14.252.148",
+        "ad.admitad.com",
+        "brokerbabe.com",
+        "i-mobile.co.jp",
+        "keydot.net",
+        "ma-code.ru",
+        "pagead46.l.doubleclick.net",
+        "partnerad.l.doubleclick.net",
+        "plugin.mediavoice.com",
+        "pos.baidu.com",
+        "tapstat.ru",
+        "vidout.net",
+        "yuhuads.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "kusuriyasan.org"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||tj.com.day/js/*.js|",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": ".ru^",
+      "initiatorDomains": [
+        "muzmob.org"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "|http",
+      "initiatorDomains": [
+        "kinotut.tv"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.*.com/sdk/v*/dd.master.spot.js",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.*.com/sdk/v*/dd.interstitial.ts.js",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||rss-loader.com/interres/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.wcostream.com/inc/embed/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 421
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "player.glomex.com"
+      ],
+      "urlFilter": "||imasdk.googleapis.com/*/ima3.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.da.mgtv.com/m/player?_type_object=",
+      "initiatorDomains": [
+        "m.mgtv.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/show_ads.js",
+      "initiatorDomains": [
+        "thebrickfan.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "mobile.donanimhaber.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "dthforum.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.expressbpd.com/rsjs/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.dainikbhaskar.com/adtech/ads/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.timesofindia.com/ad-*.cms"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.timesofindia.com/*ads*.cms"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||b.scorecardresearch.com/beacon.js",
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.chartbeat.com/js/chartbeat.js",
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 433
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ],
+      "urlFilter": "||tags.crwdcntrl.net/*.js?ns=^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 434
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ],
+      "urlFilter": "||tags.crwdcntrl.net/c/*/cc.js?ns="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobi.oui9.com/advertisement.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.cricbuzz.com/adserver/units/mobile/set_ads_values.php"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.branch.io/v1/open"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||mingle.kijiji.ca/api/ads/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleads.g.doubleclick.net/mads/gma?*&_package_name=com.nextradiotv.bfmbusiness"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.bufferapp.com/*/profiles.json"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.bufferapp.com/*/service/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.bufferapp.com/*/user"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 443
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hotosena.com"
+      ],
+      "urlFilter": "||anymind360.com/js/*/ats.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 444
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.inmobi.com"
+      ],
+      "initiatorDomains": [
+        "protothema.gr"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 445
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.inmobi.com"
+      ],
+      "initiatorDomains": [
+        "the-express.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||cmp.inmobi.com/geoip",
+      "initiatorDomains": [
+        "express.co.uk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||cmp.inmobi.com/gvl-v2/",
+      "initiatorDomains": [
+        "express.co.uk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 448
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.inmobi.com"
+      ],
+      "initiatorDomains": [
+        "aszdziennik.pl",
+        "cyprus-mail.com",
+        "dadhero.pl",
+        "fly4free.pl",
+        "hideout.co",
+        "innpoland.pl",
+        "mamadu.pl",
+        "protothema.gr",
+        "travlerz.com",
+        "wpolityce.pl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||s2-prod.dailystar.co.uk/@trinitymirrordigital/withnail/lib/prebid/pubmaticid/pwt.js",
+      "initiatorDomains": [
+        "dailystar.co.uk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||s2-prod.dailystar.co.uk/@trinitymirrordigital/withnail/lib/prebid/prebid.js",
+      "initiatorDomains": [
+        "dailystar.co.uk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||tracking.lolacicek.com/aff_c?offer_id=*&aff_id="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 452
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ads-interfaces.sc-cdn.net"
+      ],
+      "initiatorDomains": [
+        "ads.snapchat.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/tag/js/gpt.js",
+      "initiatorDomains": [
+        "koigaku.machicon.jp"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "koigaku.machicon.jp"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner1.cashback.zen.com/aff_"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 456
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "juejin.cn"
+      ],
+      "urlFilter": "||sf*-*cdn-tos.pstatp.com^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||d-cache.microad.jp/js/td_iw_access.js",
+      "initiatorDomains": [
+        "watch.impress.co.jp"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||static00.forvo.com/_presentation/assets/js/vendor_mobile_no_ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.ampproject.org/v0.js",
+      "initiatorDomains": [
+        "politnavigator.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||bc.marfeelcache.com/statics/marfeel/gardac-sync.js",
+      "initiatorDomains": [
+        "punchng.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "ukr.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 462
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ukr.net"
+      ],
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||snssdk.com/video/drm/v*/play_licenses"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "as-selection.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||epst.hindustantimes.com/js/_show_ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||yastatic.net/pcode/adfox/header-bidding.js",
+      "initiatorDomains": [
+        "kp.by",
+        "kp.kg",
+        "kp.kz",
+        "kp.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||yastatic.net/pcode/adfox/loader.js",
+      "initiatorDomains": [
+        "kp.by",
+        "kp.kg",
+        "kp.kz",
+        "kp.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||verticalscope-com.videoplayerhub.com/galleryplayer.js",
+      "initiatorDomains": [
+        "skyscrapercity.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 469
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bc.marfeelcache.com"
+      ],
+      "initiatorDomains": [
+        "01net.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 470
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bc.marfeel.com"
+      ],
+      "initiatorDomains": [
+        "01net.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "games.metv.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 472
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.economictimes.com"
+      ],
+      "urlFilter": "||etimg.com/js_etsub/*minify-*.cms"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": "||guce.advertising.com/collectidentifiers"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "||ci.phncdn.com/www-static/js/vmobile/flipbook.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "||kocaelibarisgazetesi.com/images/banner/l3oo.jpg"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "initiatorDomains": [
+        "sinarharian.com.my"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 477
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "sinarharian.com.my"
+      ],
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||sinarharian.com.my/*/prebid1.24.1.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 479
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "leanplum.com"
+      ],
+      "initiatorDomains": [
+        "leanplum.com",
+        "nbc.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.gamer.com.tw/mobile_app/anime/*/stat_ad.php"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||meta.wikimedia.org/wiki^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||pwapi.washingtonpost.com/*&__amp_source_origin"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.rubiconproject.com/prebid^",
+      "initiatorDomains": [
+        "index.hr"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||bc.marfeel.com/statics/marfeel/gardac.js",
+      "initiatorDomains": [
+        "eldiario.es"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||slashdot.org/story^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||motherless.xxx/scripts/mobile^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||maxcdn.bootstrapcdn.com/font-awesome^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||mc.yandex.ru/metrika/watch.js",
+      "initiatorDomains": [
+        "tv.yandex.by",
+        "tv.yandex.kz",
+        "tv.yandex.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 489
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "tv.yandex.by",
+        "tv.yandex.kz",
+        "tv.yandex.ru"
+      ],
+      "urlFilter": "||ads.adfox.ru/*/preparecode?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 490
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "tv.yandex.by",
+        "tv.yandex.kz",
+        "tv.yandex.ru"
+      ],
+      "urlFilter": "||ads.adfox.ru/*/getcodetest?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 491
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cdn.adspirit.de"
+      ],
+      "initiatorDomains": [
+        "cdn.adspirit.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.muensterschezeitung.de/var/storage/images^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 493
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "driveaccord.net"
+      ],
+      "urlFilter": "||tags.crwdcntrl.net/*/cc_af_ajax.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "vorsprung-online.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 495
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vorsprung-online.de"
+      ],
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdzog.com/assets/",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdzog.com/get_file/",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdzog.com/key=",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleapis.com/customsearch/",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/cse/cse.js",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/uds/api/search/",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||st.tubecup.org/releted_hdzog/json.php?page=",
+      "initiatorDomains": [
+        "m.hdzog.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||doc.echoban.ru/delivery/spcjs.php?id=1",
+      "initiatorDomains": [
+        "doc.echoban.ru",
+        "echo.msk.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast*&url=http%3a%2f%2famp.usatoday.com"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 505
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "amp.usatoday.com"
+      ],
+      "urlFilter": "||players.brightcove.net/*/index.html?videoid="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "||report-ads-to.pubnation.com/dist/pnr.js?t=",
+      "initiatorDomains": [
+        "m.neogaf.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 507
+  },
+  {
+    "condition": {
+      "urlFilter": "://googleadservices.com^|"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.googleadservices.com^|"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 509
+  },
+  {
+    "condition": {
+      "urlFilter": "||bc.marfeel.com/statics/marfeel/gardac.js",
+      "initiatorDomains": [
+        "elperiodico.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/g/",
+      "initiatorDomains": [
+        "dtmts.com",
+        "nhl.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 511
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "dtmts.com",
+        "nhl.com"
+      ],
+      "urlFilter": "||mssl.fwmrm.net/*/admanager.js?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "espn.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 513
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.haberturk.com/adscbg/mdet.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||b.marfeel.com/statics/marfeel/gardac.js",
+      "initiatorDomains": [
+        "applesencia.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 515
+  },
+  {
+    "condition": {
+      "urlFilter": "||android-api-de.gumtree.com/api/users/*/ads.json"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 516
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.redtube.com/mobi/images/",
+      "initiatorDomains": [
+        "redtube.com",
+        "redtube.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 517
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "popads.net"
+      ],
+      "initiatorDomains": [
+        "popads.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 518
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "m.au.ign.com"
+      ],
+      "urlFilter": "||imasdk.googleapis.com/js/core/bridge*.html"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 519
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "google-analytics.com"
+      ],
+      "initiatorDomains": [
+        "wtf.nl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gampad/ads",
+      "initiatorDomains": [
+        "wtf.nl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.360yield.com/adj?p=",
+      "initiatorDomains": [
+        "wtf.nl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 522
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/clk/*?https://creditcards.chase.com/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 523
+  },
+  {
+    "condition": {
+      "urlFilter": "||olx.ua/*/observed/getads/?json="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 524
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cbc.ca"
+      ],
+      "urlFilter": "||pdk.theplatform.com/*/pdk/js/plugins/doubleclick.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/core/",
+      "initiatorDomains": [
+        "cbc.ca"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 526
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cbc.ca"
+      ],
+      "urlFilter": "||sb.scorecardresearch.com/*/plugins/streamsense_plugin_theplatform.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||bc.marfeel.com/statics/marfeel/gardac.js",
+      "initiatorDomains": [
+        "sport.es"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 528
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.dotandad.com/mediamond_vm.jsp",
+      "initiatorDomains": [
+        "video.mediaset.it"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 529
+  },
+  {
+    "condition": {
+      "urlFilter": "||2o7.net/b/ss/bmwmobiledev"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 530
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankofamerica.com/content/images/contextualsitegraphics/marketing/banners/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 531
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "2mdn.net"
+      ],
+      "urlFilter": "||imasdk.googleapis.com/native/core*/native_bridge__*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 532
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "twitch.tv"
+      ],
+      "urlFilter": "||imasdk.googleapis.com/js/core/bridge*.html"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 533
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.ok.ru/fb.do?application_key=*_advertisement.user_id"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 534
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.71i.de/global_js/appconfig/sport1de/android.json"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 535
+  },
+  {
+    "condition": {
+      "urlFilter": "||cm.ksmobile.com/api/getcloudmsgadv?pkg=com.cmcm.emoji"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 536
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cnn.com"
+      ],
+      "urlFilter": "||cnn.com^*/ad_policy.xml"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 537
+  },
+  {
+    "condition": {
+      "urlFilter": "||cnet2.cbsistatic.com/fly/*/bundles/cnetmpxpdk/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 538
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "imasdk.googleapis.com"
+      ],
+      "initiatorDomains": [
+        "cnet.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 539
+  },
+  {
+    "condition": {
+      "urlFilter": "||livefyre.com/wjs/v1.0/javascripts/commentcount.js",
+      "initiatorDomains": [
+        "mlb.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 540
+  },
+  {
+    "condition": {
+      "urlFilter": "||bos.ads.nexage.com/adserve?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 541
+  },
+  {
+    "condition": {
+      "urlFilter": "||olx.ua/i2/ajax/ad/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 542
+  },
+  {
+    "condition": {
+      "urlFilter": "||convertpad.com/ad/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 543
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cdn.taboola.com"
+      ],
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 544
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "images-dl.taboola.com"
+      ],
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 545
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "images.taboola.com"
+      ],
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 546
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "api.taboola.com"
+      ],
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 547
+  },
+  {
+    "condition": {
+      "urlFilter": "||trc.taboola.com/samsung-browser-feed",
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 548
+  },
+  {
+    "condition": {
+      "urlFilter": "||trc.taboola.com/samsung-browser-us",
+      "initiatorDomains": [
+        "samsung.com",
+        "taboolanews.com",
+        "thestartmagazine.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 549
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pics.porndroids.com",
+        "auto-api.yelp.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 550
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "speee-ad.akamaized.net"
+      ],
+      "initiatorDomains": [
+        "hochi.news"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 551
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "initiatorDomains": [
+        "thedailybeast.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 552
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "static.clmbtech.com"
+      ],
+      "initiatorDomains": [
+        "timesofindia.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 553
+  },
+  {
+    "condition": {
+      "urlFilter": "||click.speee-ad.jp/v1/recwid?",
+      "initiatorDomains": [
+        "hochi.news"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 554
+  },
+  {
+    "condition": {
+      "urlFilter": "||speee-ad.akamaized.net/tag/",
+      "initiatorDomains": [
+        "hochi.news"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 555
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "koigaku.machicon.jp"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 556
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 557
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobileads.indiatimes.com/web_ads/js/22april16/prebid_1.js",
+      "initiatorDomains": [
+        "m.timesofindia.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 558
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "ukr.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 559
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "lachainemeteo.com"
+      ],
+      "urlFilter": "||a.ligatus.com/?ids=*&t=js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 560
+  },
+  {
+    "condition": {
+      "urlFilter": "||t7z.cupid.iqiyi.com/show2?",
+      "initiatorDomains": [
+        "m.iqiyi.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 561
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/gampad/ads?",
+      "initiatorDomains": [
+        "koigaku.machicon.jp"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 562
+  },
+  {
+    "condition": {
+      "urlFilter": "||bc.marfeelcache.com/punchng.com/",
+      "initiatorDomains": [
+        "punchng.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 563
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "safeframe.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "koigaku.machicon.jp"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 564
+  },
+  {
+    "condition": {
+      "urlFilter": "||grab.onelink.me/*^af_dp=grab%3a%2f%2fopen%3f",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 565
+  },
+  {
+    "condition": {
+      "urlFilter": "||ingress.com/intel?",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 566
+  },
+  {
+    "condition": {
+      "urlFilter": "||b92.net/a/cmt_submit.php",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 567
+  },
+  {
+    "condition": {
+      "urlFilter": "||t-mobile.com/mms/",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 568
+  },
+  {
+    "condition": {
+      "urlFilter": "||android.clients.google.com/market/getbinary/",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 569
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "lk-subscr.tricolor.tv"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 570
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.googleadservices.*/aclk?*&adurl=",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 571
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "forums.windowscentral.com"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 572
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazon-adsystem.com/widgets/",
+      "initiatorDomains": [
+        "dqname.jp"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 573
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 574
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 575
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 576
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 577
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 578
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 579
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 580
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 581
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 582
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 583
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 584
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "googlesyndication_adsbygoogle.js",
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "nazology.kusuguru.co.jp",
+        "nijimen.kusuguru.co.jp"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/googlesyndication_adsbygoogle.js"
+      }
+    },
+    "priority": 11,
+    "id": 585
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "googletagservices_gpt.js",
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "ukr.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/googletagservices_gpt.js"
+      }
+    },
+    "priority": 41,
+    "id": 586
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||yads.c.yimg.jp/js/yads-async.js",
+      "initiatorDomains": [
+        "map.yahoo.co.jp"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 587
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 588
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||googleadservices.com/pagead/conversion_async.js",
+      "initiatorDomains": [
+        "orcd.co"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 589
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||asahicom.jp/sp/js/and_infeedad.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 590
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 591
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 592
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||api.ambelbet.com/assets/js/page.ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 593
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||api.ambelbet.com/assets/js/in.ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 594
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 595
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 596
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||googlevideo.com/videoplayback?",
+      "initiatorDomains": [
+        "safeframe.googlesyndication.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 597
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 598
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopvast-2.0",
+    "condition": {
+      "urlFilter": "||a.adtng.com/get/",
+      "initiatorDomains": [
+        "mydaddy.cc"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-vast2.xml"
+      }
+    },
+    "priority": 41,
+    "id": 599
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 600
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 601
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 602
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 603
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 604
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 605
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 606
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.html",
+    "condition": {
+      "requestDomains": [
+        "magsrv.com"
+      ],
+      "initiatorDomains": [
+        "hanime1.me"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.html"
+      }
+    },
+    "priority": 11,
+    "id": 607
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 608
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 609
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-1s.mp4",
+    "condition": {
+      "urlFilter": "||googlevideo.com/videoplayback?",
+      "initiatorDomains": [
+        "safeframe.googlesyndication.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 610
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-1s.mp4",
+    "condition": {
+      "urlFilter": "||gvt1.com/videoplayback?",
+      "initiatorDomains": [
+        "safeframe.googlesyndication.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 611
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 612
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 613
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-1s.mp4",
+    "condition": {
+      "urlFilter": "||anyporn.com/xml^",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 614
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 615
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-1s.mp4",
+    "condition": {
+      "urlFilter": "||wi-fi.ru/ad_video/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 41,
+    "id": 616
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 617
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "applift.com"
+      ],
+      "resourceTypes": [
+        "other"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 618
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||s.yimg.com/av/curveball/ads/pr/",
+      "initiatorDomains": [
+        "sports.yahoo.com"
+      ],
+      "resourceTypes": [
+        "other"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 619
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ],
+      "initiatorDomains": [
+        "promiflash.de"
+      ],
+      "resourceTypes": [
+        "other"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 41,
+    "id": 620
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "initiatorDomains": [
+        "movies.is"
+      ],
+      "urlFilter": "||go.*.com/apu.php",
+      "resourceTypes": [
+        "other"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 621
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||alxanosoft.com/rk/",
+      "resourceTypes": [
+        "other"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 622
+  },
+  {
+    "__modifierAction": 1,
+    "__modifierType": "urlskip",
+    "__modifierValue": "",
+    "condition": {
+      "resourceTypes": [
+        "main_frame"
+      ],
+      "regexFilter": "^[^:]+://(?:[^/]+\\.)?grab\\.onelink\\.me/.*?(?:[^%.0-9a-z_-]|$)af_dp=grab%3a%2f%2fopen%3f"
+    },
+    "action": {
+      "type": "urlskip"
+    },
+    "id": 623
+  }
+]

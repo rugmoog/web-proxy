@@ -1,0 +1,23 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "admp-tc.delfi.lv",
+        "banners.zl.lv",
+        "ecompics.power.oho.lv",
+        "r.inbox.lv",
+        "a.draugiem.lv",
+        "b.itvnet.lv",
+        "h.itvnet.lv",
+        "promo.boomtime.lv",
+        "rembi.lv",
+        "w.ifrype.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||10.10.34."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.me/bitbod_trading_club^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gourls.ir",
+        "oneshare.ir",
+        "excoino.com",
+        "irancloudmining.com",
+        "axotrade.com",
+        "yoozbit.com",
+        "nokontoken.com",
+        "aryana.io",
+        "aryacoin.io",
+        "aryastake.io",
+        "cryptoland.com",
+        "bridge.link",
+        "mtabdil.com",
+        "mttcoin.com",
+        "unique.finance",
+        "treenvest.com",
+        "artanlife.club",
+        "tastenfts.com",
+        "bemchain.io",
+        "emway.ir",
+        "defigroups.com",
+        "leumia.io",
+        "aitrades.com",
+        "propertiq.io",
+        "bixbcoin.com",
+        "bixb.exchange",
+        "synchrobit.io",
+        "arongroups.co",
+        "persia.exchange",
+        "guhtoken.org",
+        "orbitnetwork.net",
+        "kingmoney.io",
+        "utbyte.io",
+        "quahl.com",
+        "gpm.ltd",
+        "dagcoin.org",
+        "coinwallet.biz",
+        "soodland.com",
+        "minepi.com",
+        "irancoinmine.com",
+        "laqira.io",
+        "waykingroup.com",
+        "bnbmatrix.io",
+        "smartgalaxy.finance",
+        "bahatoken.site",
+        "shamining.com",
+        "ccnnetwork.co",
+        "wintap.io",
+        "frzss.com",
+        "hoho.mobi",
+        "unitedsolarinfinity.com",
+        "mogo-crypto.net",
+        "tinancefa.org",
+        "chancx.io",
+        "falixa.com",
+        "izonekala.com",
+        "laxsson.com",
+        "tradergpt.ai",
+        "mat-pnu.ir",
+        "androidupdate.download",
+        "159.100.22.89",
+        "ewpb.site"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  }
+]

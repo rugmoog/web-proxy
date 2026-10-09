@@ -1,0 +1,39 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||thegoodplan.ovh/promo.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5224
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betterstudio.com"
+      ],
+      "initiatorDomains": [
+        "janjantak.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5225
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "trendymumma.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5226
+  }
+]

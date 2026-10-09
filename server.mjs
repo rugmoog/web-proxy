@@ -1,5 +1,12 @@
 import express from "express";
 import { chromium } from "playwright";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { tmpdir } from "node:os";
+const here = path.dirname(fileURLToPath(import.meta.url));
+const extensionPath = path.join(here, "ublock-lite");
+const profilePath = path.join(tmpdir(), "web-proxy-chromium-profile");
+
 
 let configuredOrigin = process.env.ALLOWED_ORIGIN;
 if (!configuredOrigin) {
@@ -17,8 +24,6 @@ const app = express();
 app.use(express.static("public"));
 
 app.use(express.json({ limit: "2kb" }));
-
-let browser;
 let context;
 let page;
 
@@ -99,7 +104,7 @@ app.post("/api/input/click", async (req, res) => {
 app.post("/api/input/type", async (req, res) => {
   const text = req.body?.text;
 
-  if (typeof text !== "string" || text.length > 500) {
+  if (typeof text !== "string" || text.length > 50000) {
     return res.status(400).json({ error: "Text must be 500 characters or fewer." });
   }
 
@@ -169,11 +174,19 @@ app.post("/api/reload", async (_req, res) =>
 );
 
 async function start() {
-  browser = await chromium.launch({ headless: true });
-  context = await browser.newContext({
-  serviceWorkers: "block",
-  viewport: { width: 1280, height: 720 }
+  context = await chromium.launchPersistentContext(profilePath, {
+  channel: "chromium",
+  headless: true,
+  viewport: { width: 1280, height: 720 },
+  args: [
+    `--disable-extensions-except=${extensionPath}`,
+    `--load-extension=${extensionPath}`,
+  ],
 });
+
+page = context.pages()[0] ?? await context.newPage();
+
+
 
 
   // Keep this prototype to one tab.
@@ -229,7 +242,7 @@ async function shutdown() {
 
   console.log("Stopping server...");
   try {
-    await browser?.close();
+    await context?.close();
   } catch {}
 
   process.exit(0);

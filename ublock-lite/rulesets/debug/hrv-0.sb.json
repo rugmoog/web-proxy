@@ -1,0 +1,27 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "linker.hr",
+        "widgets.jutarnji.hr",
+        "widget.admiral.hr",
+        "traffic.styria.hr",
+        "redakcija.alo.rs",
+        "klik-slider.morgancode.com",
+        "eph-adsjutarnji.cdn.sysbee.net",
+        "swcs.24sata.rocks",
+        "lupon.media",
+        "a.mabipa.com",
+        "widget.halooglasi.com",
+        "unselfishugh.com",
+        "btloader.com",
+        "widget.marktjagd.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  }
+]

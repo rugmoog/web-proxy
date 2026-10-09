@@ -1,0 +1,128 @@
+[
+  {
+    "condition": {
+      "urlFilter": ".shop/tb/#"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1083
+  },
+  {
+    "condition": {
+      "urlFilter": ".shop/tb/|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1084
+  },
+  {
+    "condition": {
+      "urlFilter": "/l?tag=*&ad="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1085
+  },
+  {
+    "condition": {
+      "urlFilter": "/l?tag=*_clickunder&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1086
+  },
+  {
+    "condition": {
+      "urlFilter": "/?goto=sitereg&atp=*&plid=*&bnid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1087
+  },
+  {
+    "condition": {
+      "urlFilter": "||clients.cdnet.tv/lockadb.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1088
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dteifi.com",
+        "thtrck.com",
+        "crmared.com",
+        "pressms.ru",
+        "sinehut.com",
+        "paintejuke.com",
+        "imaginarybad.com",
+        "1463.info",
+        "www.mir-stalkera.ru",
+        "bngtrak.com",
+        "all-audio.pro",
+        "b.we-are-anon.com",
+        "go.xl.ua",
+        "go.zdos.ru",
+        "spots.ru",
+        "1qi.info",
+        "refpahrwzjlv.top",
+        "betemolgar.com",
+        "z.cdn.trafficdok.com",
+        "deeppquiz.ru",
+        "virnews.club",
+        "bestdealfor1.life",
+        "click.zmctrack.net",
+        "ec2-44-233-143-239.us-west-2.compute.amazonaws.com",
+        "debitcrebit669.com",
+        "tirsmile.pro",
+        "go.ukrleads.com",
+        "apytrc.com",
+        "awesomeredirector.com",
+        "tubecontext.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1089
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.*.xyz/*?*&key=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1426
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gainifyads.com",
+        "cityadspix.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1427
+  }
+]

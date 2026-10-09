@@ -1,0 +1,2510 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "umbrodk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oofosnorgeoutlet.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "clarks-dk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hokaonenorge.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hunter-danmark.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "idportal.vercel.app"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlssneykonto.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "infos-sundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sporpakke-dk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infos.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-skort.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dk-fornysundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dksundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infodk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.86"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.87"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.88"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.90"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "223.29.226.200"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adext.inkclub.com",
+        "banner.3loops.com",
+        "bilborsen.webannonse.no",
+        "svindel.info",
+        "lib.idg.no",
+        "drbrand.herokuapp.com",
+        "fr135.net",
+        "static-dscn.net",
+        "gtm.findroommate.dk",
+        "www-presse-fotos-dk.filesusr.com",
+        "65.21.200.49",
+        "elderlyscissors.com",
+        "marked.no",
+        "y6.no",
+        "havfruen4220.dk",
+        "gogle.net",
+        "eccolabgroup.com",
+        "galerijajava.ba",
+        "p-stn.net",
+        "s.free.fr",
+        "trmff.wpengine.com",
+        "ozarkvillage.net",
+        "a2ics.eu",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "be-sms.com",
+        "connection-info.com",
+        "disneyplus-tv.com",
+        "earnifi-claiming.com",
+        "flix-area.com",
+        "flix-request.com",
+        "lnfoskonto.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "ntfx-acc.com",
+        "payement-renew.me",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "85.159.213.158",
+        "nestnose.com",
+        "inquisitivebed.info",
+        "wirexapp.africa.com",
+        "tachyoniums.eu.com",
+        "healtheweb.co.uk",
+        "195.242.152.122",
+        "statautos.com",
+        "212.224.107.120",
+        "158.94.209.89",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.vip",
+        "dao-asi.vip",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "daoteams.com",
+        "daoxo.bond",
+        "pakke.click",
+        "postuin.bond",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "196.251.85.197",
+        "nono.qpon",
+        "tnord.qpon",
+        "desidert.no",
+        "storustovu.dk",
+        "hagebakken.no",
+        "mdb.nu",
+        "idj.no",
+        "trafikkskoleapp.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fr135.net",
+        "static-dscn.net",
+        "65.21.200.49",
+        "102.112.2o7.net",
+        "look-like-star.myshopify.com",
+        "pensjonistferie.no",
+        "replicapatekphilippe.com",
+        "replicarolexyachtmaster.com",
+        "tromselementbygg.no",
+        "ultimate-tech-products.myshopify.com",
+        "oslo-tannlegene.no",
+        "y6.no",
+        "havfruen4220.dk",
+        "srilanka.no",
+        "fredfiber.no",
+        "gogle.net",
+        "eccolabgroup.com",
+        "galerijajava.ba",
+        "p-stn.net",
+        "s.free.fr",
+        "trmff.wpengine.com",
+        "liveshopdealz.com",
+        "geometra-bologna.it",
+        "sky.gs",
+        "is-a-personaltrainer.com",
+        "vidcopa.me",
+        "smallrise.com",
+        "cionialessio.it",
+        "cinefique.com",
+        "niupaiba.com",
+        "nordeninterior.weebly.com",
+        "ozarkvillage.net",
+        "a2ics.eu",
+        "smsb.co",
+        "sitey.me",
+        "betzykrisesenter.no",
+        "citra2010oslo.no",
+        "digiter.no",
+        "kjaerra.no",
+        "kontrast1.no",
+        "norskmatkultur.no",
+        "nyematoghelse.no",
+        "securmarksykkel.no",
+        "topshineauto.no",
+        "yttersiden.no",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "be-sms.com",
+        "connection-info.com",
+        "disneyplus-tv.com",
+        "earnifi-claiming.com",
+        "flix-area.com",
+        "flix-request.com",
+        "lnfoskonto.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "ntfx-acc.com",
+        "payement-renew.me",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "85.159.213.158",
+        "nestnose.com",
+        "inquisitivebed.info",
+        "wirexapp.africa.com",
+        "tachyoniums.eu.com",
+        "healtheweb.co.uk",
+        "195-242-152-122.static.hvvc.us",
+        "195.242.152.122",
+        "statautos.com",
+        "212.224.107.120",
+        "nofotballshop.com",
+        "dkfodboldstore.com",
+        "158.94.209.89",
+        "altinn-brukerservice",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.vip",
+        "dao-asi.vip",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "daoteams.com",
+        "daoxo.bond",
+        "pakke.click",
+        "postuin.bond",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "196.251.85.197",
+        "nono.qpon",
+        "tnord.qpon"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 741
+  },
+  {
+    "condition": {
+      "urlFilter": "/begrensede-tilbudet/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 742
+  },
+  {
+    "condition": {
+      "urlFilter": "/bli-avbrutt-bor-du-oppdater/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 743
+  },
+  {
+    "condition": {
+      "urlFilter": "/dnb11111^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 744
+  },
+  {
+    "condition": {
+      "urlFilter": "/kiwierbjudanden1/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 745
+  },
+  {
+    "condition": {
+      "urlFilter": "/norgesecure/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 746
+  },
+  {
+    "condition": {
+      "urlFilter": "/pakkerlevering/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 747
+  },
+  {
+    "condition": {
+      "urlFilter": ".gratis-reisebilletter."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 749
+  },
+  {
+    "condition": {
+      "urlFilter": "||coop.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 750
+  },
+  {
+    "condition": {
+      "urlFilter": "||danskebank.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 751
+  },
+  {
+    "condition": {
+      "urlFilter": "||djurs.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 752
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 753
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 754
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 755
+  },
+  {
+    "condition": {
+      "urlFilter": "||flysas-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 756
+  },
+  {
+    "condition": {
+      "urlFilter": "||komplett.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 757
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordea.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 758
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordnet.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 759
+  },
+  {
+    "condition": {
+      "urlFilter": "||norwegian.com."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 760
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 761
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 762
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbanken.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 763
+  },
+  {
+    "condition": {
+      "urlFilter": "||shell.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 764
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 765
+  },
+  {
+    "condition": {
+      "urlFilter": "||sparebank1.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 766
+  },
+  {
+    "condition": {
+      "urlFilter": "||tusenfryd-com."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 767
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 768
+  },
+  {
+    "condition": {
+      "urlFilter": "||vipps-sikkerhet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 769
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankid-sperret."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 770
+  },
+  {
+    "condition": {
+      "urlFilter": "/?finn.no/login"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 810
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "umbrodk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 811
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarks.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 812
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgno.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 813
+  },
+  {
+    "condition": {
+      "urlFilter": "*norges.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 814
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgebutikk.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 815
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestore.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 816
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-no.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 817
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestores.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 818
+  },
+  {
+    "condition": {
+      "urlFilter": "*skobutikks.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 819
+  },
+  {
+    "condition": {
+      "urlFilter": "*butikksoslo.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 820
+  },
+  {
+    "condition": {
+      "urlFilter": "://212.27.60.108^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 821
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnnbcorporat*.mine.nu^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 822
+  },
+  {
+    "condition": {
+      "urlFilter": "://94.156.65.204^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 823
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 824
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 825
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "brightertrade.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 826
+  },
+  {
+    "condition": {
+      "urlFilter": "||kongeparken.com-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 827
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiwi.com-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 828
+  },
+  {
+    "condition": {
+      "urlFilter": "||getmail-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 829
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop*.club^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 830
+  },
+  {
+    "condition": {
+      "urlFilter": "/css/*sparebank1.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 831
+  },
+  {
+    "condition": {
+      "urlFilter": "||faarup.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 832
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com-dk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 833
+  },
+  {
+    "condition": {
+      "urlFilter": "||legoland.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 834
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "rigspolitiet.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 835
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ocgadgets.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 836
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ocgadgetss.myshopify.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 837
+  },
+  {
+    "condition": {
+      "urlFilter": "||ekstrabiadet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 838
+  },
+  {
+    "condition": {
+      "urlFilter": "||fintechnow*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 839
+  },
+  {
+    "condition": {
+      "urlFilter": "||wealthnews*.xyz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 840
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "newzeninfotech.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 841
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "probenefit.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 842
+  },
+  {
+    "condition": {
+      "urlFilter": "||norge.*.icu^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 843
+  },
+  {
+    "condition": {
+      "urlFilter": "||euronews*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 844
+  },
+  {
+    "condition": {
+      "urlFilter": "||softwaredaily*.monster^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 845
+  },
+  {
+    "condition": {
+      "urlFilter": "||stalknews*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 846
+  },
+  {
+    "condition": {
+      "urlFilter": "||goldupdates*.xyz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 847
+  },
+  {
+    "condition": {
+      "urlFilter": "||sikre-vipps-konto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 848
+  },
+  {
+    "condition": {
+      "urlFilter": "/cop-no/index.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 849
+  },
+  {
+    "condition": {
+      "urlFilter": "/survey/heldige^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 850
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.*/halaman-muka^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 851
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.com/view/truls-svendsen^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 852
+  },
+  {
+    "condition": {
+      "urlFilter": "||signup-*vpns.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 853
+  },
+  {
+    "condition": {
+      "urlFilter": "||telenors.*.cx^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 854
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "valspe.com.br"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 855
+  },
+  {
+    "condition": {
+      "urlFilter": "-sparebank1.*.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 856
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?[a-z]{10,12}\\.easy\\.co(\\/.*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 857
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/vg.no|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 858
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "irb.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 859
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "economywatch.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 860
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "superbinvest.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 861
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aktienboard.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 862
+  },
+  {
+    "condition": {
+      "urlFilter": "||minklubshop.dk/dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 863
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/nordea|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 864
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sparebank"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 865
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sbanken|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 866
+  },
+  {
+    "condition": {
+      "urlFilter": "-norge.co.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 868
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmark.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 869
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oofosnorgeoutlet.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 870
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "clarks-dk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 871
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hokaonenorge.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 872
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokalopesko."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 873
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hunter-danmark.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 874
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?hokaoneone[a-z0-9].*$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 875
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgeskosalg."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 876
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-salg.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 877
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalg.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 878
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalgs.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 879
+  },
+  {
+    "condition": {
+      "urlFilter": "*salgnorge.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 880
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarkdk.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 881
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodktilbud."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 882
+  },
+  {
+    "condition": {
+      "urlFilter": "*skonorgeeu.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 883
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersnorgeshop."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 884
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersdkshop.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 885
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmarks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 886
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb-oppdater."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 887
+  },
+  {
+    "condition": {
+      "urlFilter": "||no-oppdatere."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 890
+  },
+  {
+    "condition": {
+      "urlFilter": "://179.43.189.62^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 892
+  },
+  {
+    "condition": {
+      "urlFilter": "||easypark-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 893
+  },
+  {
+    "condition": {
+      "urlFilter": "||monetrizer*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 894
+  },
+  {
+    "condition": {
+      "urlFilter": "://38.180.96.244^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 895
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.45^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 896
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.214^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 897
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.217^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 898
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adidasko.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 899
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gsport.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 900
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hernoclothing.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 901
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "linkshe.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 902
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norfotball.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 903
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norgefotball.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 904
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norgeshoes.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 905
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oflike.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 906
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pjs.outlet.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 907
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "popeurope.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 908
+  },
+  {
+    "condition": {
+      "urlFilter": "://old.sermitsiaq.ag^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 909
+  },
+  {
+    "condition": {
+      "urlFilter": "://robot.ekstrabladet.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 910
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/absales^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 911
+  },
+  {
+    "condition": {
+      "urlFilter": "/noo/taxx/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 912
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "idportal.vercel.app"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 914
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/refusjon"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 924
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/skatteetaten^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 925
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/sikkerskatt/refusjon^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 926
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/skatt/refusjon/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 927
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "flytteregister.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 929
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlssneykonto.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 930
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "infos-sundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 931
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sporpakke-dk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 932
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infos.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 933
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-skort.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 934
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dk-fornysundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 935
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dksundhed.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 936
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infodk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 937
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.86"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 938
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.87"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 939
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.88"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 940
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.90"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 941
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "223.29.226.200"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 942
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.firebaseapp.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 943
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.web.app^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 944
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-beskytte."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 945
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-ids."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 946
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-melding-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 947
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-minside."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 948
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnnorge."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 949
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnskatteetaten."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 950
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn-no-n."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 951
+  },
+  {
+    "condition": {
+      "urlFilter": "||finnobrukerlogg."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 952
+  },
+  {
+    "condition": {
+      "urlFilter": "||minside-altinn."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 953
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/autopass\\.\\d{6}\\.com(\\/.*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 954
+  },
+  {
+    "condition": {
+      "urlFilter": "://147.45.198.199^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 955
+  },
+  {
+    "condition": {
+      "urlFilter": "://16.170.34.33^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 956
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.160.248.24^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 957
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.122.86^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 958
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.46.83^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 959
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.164.196.209^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 960
+  },
+  {
+    "condition": {
+      "urlFilter": "://88.255.216.16^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 961
+  },
+  {
+    "condition": {
+      "regexFilter": "^((https?|tcp|udp|i?quic|s?ftp):\\/\\/)?204\\.194\\.54\\.\\d{1,3}([:/].*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 962
+  },
+  {
+    "condition": {
+      "urlFilter": "-med.footeo.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 963
+  },
+  {
+    "condition": {
+      "urlFilter": "*medisin*.over-blog.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 964
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "helsehjelp.over-blog.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 965
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "marson.footeo.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 966
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sobrilleverandoridanmark.wordpress.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 967
+  },
+  {
+    "condition": {
+      "urlFilter": "||xanax*.over-blog.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 968
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "informationer.nu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 969
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "webavisen.gl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 970
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-levering."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 971
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-receiving."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 972
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-nno."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 973
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-tracks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 974
+  },
+  {
+    "condition": {
+      "urlFilter": "||postenn-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 975
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-all."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 976
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-confirmation."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 977
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-delay."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 978
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-order-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 979
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-paket."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 980
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-pay."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 981
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-post."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 982
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-se-delivery."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 983
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 984
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 985
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 986
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tracks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 987
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorde-swe."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 988
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpress."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 989
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpressdelivery-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 990
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordspara."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 991
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorg-dk*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 992
+  }
+]

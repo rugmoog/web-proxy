@@ -121,7 +121,7 @@ async function refreshScroll() {
     const max = Math.max(0, Number(state.max) || 0);
     remoteScroll.max = String(max);
     remoteScroll.value = String(Math.min(max, Math.max(0, Number(state.top) || 0)));
-    remoteScroll.disabled = max === 0;
+    remoteScroll.disabled = false;
   } catch {
     // The next refresh can retry.
   }

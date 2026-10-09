@@ -1,0 +1,12 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||awebstories.com/wp-content/plugins/secure-copy-content-protection^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  }
+]

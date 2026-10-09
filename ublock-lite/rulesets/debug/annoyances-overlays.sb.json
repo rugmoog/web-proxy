@@ -1,0 +1,36 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "data.reachplc.com",
+        "embeds.beehiiv.com",
+        "f.convertkit.com",
+        "subscription-forms.smsbump.com",
+        "wheelioapp.azureedge.net",
+        "widget.smsinfo.io",
+        "gn-flagpoles.api.bbci.co.uk",
+        "ping.contactpigeon.com",
+        "follow-it-form-subscribe",
+        "bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com",
+        "vlan.qualifioapp.com",
+        "newsletter.beautydea.it",
+        "algosit.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||awebstories.com/wp-content/plugins/secure-copy-content-protection^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  }
+]

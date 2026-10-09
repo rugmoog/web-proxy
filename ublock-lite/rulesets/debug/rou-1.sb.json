@@ -1,0 +1,130 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "jsecoin.com",
+        "reasedoper.pw",
+        "listat.biz",
+        "minecrunch.co",
+        "7w.ro",
+        "ado.icorp.ro",
+        "brand.ad",
+        "omniconvert.com",
+        "storage.icorp.ro",
+        "zm232.com",
+        "adtlgc.com",
+        "tynt.com",
+        "crwdcntrl.net",
+        "ads1-adnow.com",
+        "ads2-adnow.com",
+        "ads3-adnow.com",
+        "tesseradigital.com",
+        "profitshare.emag.ro",
+        "profitshare.ro",
+        "l.profitshare.ro",
+        "adexc.net",
+        "admonitoring.bsgroup.ro",
+        "adocean.pl",
+        "ads.gadget.ro",
+        "ads.tradeads.eu",
+        "adservingfactory.com",
+        "brat-online.ro",
+        "chargeplatform.com",
+        "flx1.com",
+        "gravityrd-services.com",
+        "megapopads.com",
+        "new.cetrk.com",
+        "profiling.avandor.com",
+        "profiling1.avandor.com",
+        "s.atemda.com",
+        "secure.trafic.ro",
+        "st.ad.adnow.com",
+        "storage.trafic.ro",
+        "track.atom-data.io",
+        "www4.smartadserver.com",
+        "pwa.grgs.ro",
+        "retargeting.biz",
+        "hotjar.com",
+        "awstaticdn.net",
+        "contestapp.a1.ro",
+        "creativcdn.net",
+        "kreativcdn.net",
+        "ads2.evz.ro",
+        "adsnative.com",
+        "s2blosh.com",
+        "3myad.com",
+        "serve.efortuna.ro",
+        "banners.livepartners.com",
+        "openstat.eu",
+        "sgbm.info",
+        "aplizz.net",
+        "pornlash.com",
+        "pgnasm.click",
+        "colorfulculture.click",
+        "massug.space",
+        "adc-teasers.com",
+        "xamubee.ru",
+        "gwngdfxtm.ru",
+        "nnowa.com",
+        "klodrum.com",
+        "get-in-shape.beauty",
+        "gonowx.com",
+        "adv.noi.md",
+        "deltarockme.com",
+        "beesratyou.com",
+        "whitemaincode.com",
+        "kdsk32lfa.xyz",
+        "shufflefell.com",
+        "afders.org",
+        "rvlqplr.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "femeisingure.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||easyaff.net/?ref"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "/click?impid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "&ad_campaign_id"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  }
+]

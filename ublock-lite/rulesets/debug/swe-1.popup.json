@@ -1,0 +1,172 @@
+[
+  {
+    "condition": {
+      "initiatorDomains": [
+        "look.ufinkln.com",
+        "look.utndln.com",
+        "pheegoab.click",
+        "runtnc.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1381
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "digitaliseringsinitiativet.se",
+        "kyrkavgift.se",
+        "toppmarkensverige.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1382
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "flirtmatch.se",
+        "jobba-hemifran.com",
+        "jobba-hemifran.com",
+        "mogenromantik.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1383
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "bostad24.se",
+        "bostadslistan.se",
+        "bostadsportal.se",
+        "hyrio.se",
+        "rentia.se",
+        "rentify.se",
+        "rentler.se"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1384
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "alkemi.com.se",
+        "alphalete.com.se",
+        "rpofsweden.com",
+        "rpofsweden.se",
+        "valentinosverige.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1385
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "viagogo.se"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1386
+  },
+  {
+    "condition": {
+      "urlFilter": "/aftonbladet/crypt/?lpkey"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1387
+  },
+  {
+    "condition": {
+      "urlFilter": "/expressen/crypt/?lpkey"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1388
+  },
+  {
+    "condition": {
+      "urlFilter": "/offer?prod"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1389
+  },
+  {
+    "condition": {
+      "urlFilter": "/prylguiden-expressen"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1390
+  },
+  {
+    "condition": {
+      "urlFilter": "/www.swedbank-*/telegram"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1391
+  },
+  {
+    "condition": {
+      "urlFilter": "||best-prizes-now."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1392
+  },
+  {
+    "condition": {
+      "urlFilter": "||online.swedbank.se.swedd."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1393
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.arclk.net/tr?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1394
+  }
+]

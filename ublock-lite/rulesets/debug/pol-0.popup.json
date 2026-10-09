@@ -1,0 +1,336 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/scripts/click.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 712
+  },
+  {
+    "condition": {
+      "urlFilter": "||upvid.co/",
+      "excludedInitiatorDomains": [
+        "mirrorace.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 713
+  },
+  {
+    "condition": {
+      "urlFilter": "|https://consumer.huawei.com/pl/?utm_source=huawei.pl&utm_medium=huawei.pl",
+      "initiatorDomains": [
+        "www.dobreprogramy.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 714
+  },
+  {
+    "condition": {
+      "urlFilter": "||benchmark.pl/screen-container-target.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 715
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly/2",
+      "initiatorDomains": [
+        "mmorpg.org.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 716
+  },
+  {
+    "condition": {
+      "urlFilter": "||czasdzieci.pl/adurl.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 717
+  },
+  {
+    "condition": {
+      "urlFilter": "||evertiq.pl/go/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 718
+  },
+  {
+    "condition": {
+      "urlFilter": "||interia.pl/#utm_source",
+      "initiatorDomains": [
+        "cdaction.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 719
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "spolecznosci.net"
+      ],
+      "excludedInitiatorDomains": [
+        "www.donald.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 720
+  },
+  {
+    "condition": {
+      "urlFilter": "||superfilm.pl/*source=admedia&model=pop"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 721
+  },
+  {
+    "condition": {
+      "urlFilter": "||tabletowo.pl/a/461740",
+      "initiatorDomains": [
+        "tabletowo.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 722
+  },
+  {
+    "condition": {
+      "urlFilter": "||weszlo.com/?bsa_pro_id"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 723
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.wp.pl"
+      ],
+      "regexFilter": "^(http|https):\\/\\/www\\.wp\\.pl\\/[a-zA-Z0-9-_]{50,}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 724
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.wp.pl"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z.]{2,17}\\.wp\\.pl\\/[a-zA-Z0-9_-]{450,}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 725
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "abcvideo.cc",
+        "onlystream.tv",
+        "playtube.ws",
+        "tabletowo.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 726
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "allcaster.pl"
+      ],
+      "urlFilter": "||freedisc.pl/static/rating/*.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 727
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "image.tmdb.org"
+      ],
+      "initiatorDomains": [
+        "cdahd.co"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 728
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.google.com"
+      ],
+      "initiatorDomains": [
+        "onlystream.tv"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 729
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.google.com"
+      ],
+      "initiatorDomains": [
+        "www.flashx.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 730
+  },
+  {
+    "condition": {
+      "regexFilter": "^http:\\/\\/p[0-9]{6,10}\\.[a-z]{5,10}\\.com\\/itab\\/[a-z?=A-Z_0-9&]{10,}Zippyshare\\.com[a-z0-9A-Z%.'-]{5,}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 731
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cdahd.co",
+        "onlystream.tv",
+        "tele-wizja.is",
+        "widestream.io"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-zA-Z0-9]{5,10}\\.[a-z]{2,10}\\/[a-zA-Z0-9?_=&-.%]{50,70}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 732
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "veecast.net"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-zA-Z0-9]{5,15}\\.(com|net)\\/[a-z]{4,10}\\/[0-9a-z.?=%A-Z-&]{60,100}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 733
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.flashx.net"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-z]{3,15}\\.[a-z]{3,4}\\/[\\w\\W]{10,20}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 734
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gasurvey.gemius.com",
+        "spolecznosci.mgr.consensu.org",
+        "postlnk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 735
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.bet-at-home.com"
+      ],
+      "urlFilter": "||www.bet-at-home.com/*/account/deposit/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 897
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ads.allegro.pl"
+      ],
+      "initiatorDomains": [
+        "ads.allegro.pl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 898
+  }
+]

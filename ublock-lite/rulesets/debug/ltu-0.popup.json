@@ -1,0 +1,51 @@
+[
+  {
+    "condition": {
+      "initiatorDomains": [
+        "filmux.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betsafe.lt",
+        "optibet.lt",
+        "enlabspartners.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "_adcash|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "topsport.lt"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  }
+]

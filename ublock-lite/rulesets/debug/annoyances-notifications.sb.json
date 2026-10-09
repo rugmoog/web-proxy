@@ -1,0 +1,39 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "css.xcss.me",
+        "my-pu.sh",
+        "notificaciones-web.com",
+        "notification.tubecup.net",
+        "notifications.viafoura.co",
+        "poosh.wizzo.media",
+        "push.asahiinteractive.com",
+        "push.brownbrothers.io",
+        "push.bytesignal.com",
+        "push.delivery.ethinking.de",
+        "push.esputnik.com",
+        "push.getbeamer.com",
+        "push.intreface.com",
+        "push.knd.ro",
+        "push.newscraft.io",
+        "push.reamaze.com",
+        "pushdeploy.estrema.it",
+        "puuush.me",
+        "alerts.ndtv.com",
+        "alerts.thedailystar.net",
+        "push.cnnindonesia.com",
+        "push.ictsd.org",
+        "push.idowa.de",
+        "push.neko-san.fr",
+        "pushme.magellanotech.it",
+        "widget.push.forja.ma"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  }
+]

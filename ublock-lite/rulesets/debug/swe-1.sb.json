@@ -1,0 +1,165 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ads.samnytt.se",
+        "analytics-smhise.smhi.se",
+        "analytics.alandpost.com",
+        "analytics.citreamedia.com",
+        "analytics.gen.shield.monitoringservice.co",
+        "analytics.samnytt.se",
+        "analytics.teknikveckan.se",
+        "annons.dagen.se",
+        "api-sa.rikatillsammans.se",
+        "app-statistics.puzzel.com",
+        "aservice.tools",
+        "assets.zubitracker.io",
+        "borsvarlden-banners.azurewebsites.net",
+        "brandy.bonniernewslifestyle.se",
+        "bvads.bovision.se",
+        "cdn.stroeerdigitalgroup.de",
+        "cmp.radioplay.se",
+        "collect.breakit.se",
+        "commercial-cms-prod.aller.se",
+        "consent.podplay.com",
+        "creativeconsortiuminspired.com",
+        "engine.groweo.com",
+        "es.loppi.se",
+        "gtm.findroommate.dk",
+        "hasher.schibsted.com",
+        "images-ads.aland.com",
+        "imp.laget.se",
+        "ingest.analytics.nation.dev",
+        "insights.analys.cloud",
+        "insights.hemnet.se",
+        "insights.tv4.a2d.tv",
+        "js.evtr.nordiskemedier.dk",
+        "load.znq.tt.se",
+        "logger.tv.nu",
+        "m1.analytics.sitevision-cloud.se",
+        "mediaserver.gvcaffiliates.com.cdn.cloudflare.net",
+        "newstats.blogg.se",
+        "owa.agriprim.se",
+        "pcf.tdscd.com",
+        "pixel.playbuzz.com",
+        "plowking.mecenat.com",
+        "pm.azerioncircle.com",
+        "prylguiden.expressen.se",
+        "r1.ddlnk.net",
+        "se-affiliate-gallery.aws.aller.com",
+        "se-recommendation-microservice.labrador.allermedia.io",
+        "smartstats.kla.tv",
+        "spcmp.woxikon.se",
+        "spelguiden.samnytt.se",
+        "stats.allabolag.se",
+        "stats.blogg.se",
+        "stats.docu.info",
+        "stats.helsingborg.se",
+        "stats.jibber.social",
+        "stats.poddtoppen.se",
+        "stm.eniro.se",
+        "stp.gaffa.se",
+        "telemetry.bambuser.io",
+        "tracing.yelp.com",
+        "tracking.fasab6f.se",
+        "track.intersport.se",
+        "track.mediaintelliview.com",
+        "track.yetric.net",
+        "tvm-tv4-freewheel.akamaized.net",
+        "t.atmng.io",
+        "t.fastcmp.com",
+        "ues.vk.se",
+        "umami.nordiskehandel.cloud",
+        "um.merinfo.se",
+        "views.sociablekit.com",
+        "wb-analytics.onecruiter.com",
+        "webstat.abf.se"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1007
+  },
+  {
+    "condition": {
+      "urlFilter": "/aftonbladet/crypt/?lpkey"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1401
+  },
+  {
+    "condition": {
+      "urlFilter": "/expressen/crypt/?lpkey"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1402
+  },
+  {
+    "condition": {
+      "urlFilter": "/prylguiden-expressen"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1403
+  },
+  {
+    "condition": {
+      "urlFilter": "/www.swedbank-*/telegram"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1404
+  },
+  {
+    "condition": {
+      "urlFilter": "||aftonbladet.se.*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1405
+  },
+  {
+    "condition": {
+      "urlFilter": "||best-prizes-now."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1406
+  },
+  {
+    "condition": {
+      "urlFilter": "||online.swedbank.se.swedd."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1407
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.arclk.net/tr?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1408
+  }
+]

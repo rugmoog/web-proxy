@@ -1,0 +1,1842 @@
+[
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/10\\.(?:(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))\\.){2}(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/172\\.(?:1[6-9]|2\\d|3[01])(?:\\.(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))){2}[:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/192\\.168(?:\\.(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))){2}[:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/\\[f(?:[cd][0-9a-f]|e[89a-f])[0-9a-f]:[0-9a-f:]+\\][:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/169\\.254\\.(?:[1-9]\\d?|1\\d{2}|2(?:[0-4]\\d|5[0-4]))\\.(?:[1-9]?\\d|1\\d{2}|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/\\[::ffff:(?:7f[0-9a-f]{2}|a[0-9a-f]{2}|ac1[0-9a-f]|c0a8|a9fe):[0-9a-f]{1,4}\\][:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/127\\.(?:(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))\\.){2}(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "[::1]^",
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "0.0.0.0"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "urlFilter": "[::]^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "internal"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "local"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "home.arpa"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "airbox.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "airport"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "arcor.easybox"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aterm.me"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "belkin.range"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bthub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bthomehub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "congstar.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "connect.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "console.gl-inet.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dishy.starlink.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "easy.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "etxr"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "extender.belkin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fire.walla"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.nas"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.repeater"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritzbox.internal"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "giga.cube"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hi.link"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hitronhub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "homerouter.cpe"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "huaweimobilewifi.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "kabel.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localbattle.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "my.keenetic.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "my.router"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "myfritz.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mygateway"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mobile.hotspot"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mwlogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ntt.setup"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "orbilogin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "orbilogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pi.hole"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "plex.direct"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "app.plex.tv",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "repeater.asus.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "router.asus.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "router.synology.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "routerlogin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "routerlogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "samsung.router"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "speedport.ip"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "steamloopback.host"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "telstra.gateway"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkap.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkeap.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkmodem.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkplclogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkrepeater.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkwifi.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "unifi"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "unifi.localdomain"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "web.setup"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "web.setup.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.wyzerouter.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "foldingathome.org"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 72
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "mega.nz"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 73
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "intel.cn",
+        "intel.co.id",
+        "intel.co.jp",
+        "intel.co.kr",
+        "intel.com",
+        "intel.com.br",
+        "intel.com.tw",
+        "intel.de",
+        "intel.fr",
+        "intel.la",
+        "intel.vn"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 74
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "bundesarchiv.de",
+        "deutsche-rentenversicherung.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 75
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bayernportal.de",
+        "bund.de",
+        "deutsche-rentenversicherung.de",
+        "governikus.de",
+        "mv-serviceportal.de",
+        "organspende-register.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 76
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "filecrypt.co"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 77
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "pcsupport.lenovo.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 78
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "apollographql.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 79
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "driverhub.asus.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 80
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bancobrasil.com.br"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 81
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bb.com.br"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 82
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bradesco.com.br"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 83
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "dell.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 84
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "vpn.mozilla.org"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 85
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "figma.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 86
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "battlelog.battlefield.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 87
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "azure.com",
+        "m365.cloud.microsoft",
+        "make.powerautomate.com",
+        "microsoft.com",
+        "outlook.office.com"
+      ],
+      "urlFilter": "||login.microsoftonline.com/*/oauth2/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||127.0.0.1:",
+      "initiatorDomains": [
+        "creator.kodular.io",
+        "starter.kodular.io"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||localhost:",
+      "initiatorDomains": [
+        "creator.kodular.io",
+        "starter.kodular.io"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 90
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "www.faceit.com"
+      ],
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 91
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "support.huawei.com"
+      ],
+      "regexFilter": "^ws:\\/\\/(127\\.0\\.0\\.1|localhost):\\d{4,5}\\/icslite\\/websocket\\/",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 92
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "musicbrainz.org"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 93
+  }
+]

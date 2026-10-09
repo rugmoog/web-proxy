@@ -1,0 +1,50 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "crnsgngrpj.nl",
+        "dntblckmpls.nl",
+        "mt67.net",
+        "nojazz.eu",
+        "publize.net",
+        "trickyrock.com",
+        "viadata.store",
+        "ads.nextday.media",
+        "advertising-cdn.dpgmedia.cloud",
+        "advertising-module.api.dpgmedia.cloud",
+        "go2.go2cloud.org",
+        "kjdsfjisdfjr23.azurewebsites.net",
+        "nextdaymedia-ads.s3.amazonaws.com",
+        "traffic.12flirt.com",
+        "aa.tweakers.nl",
+        "content1.pcmweb.nl",
+        "content1.pu.nl",
+        "content1.wasmachines.nl",
+        "content1.zoom.nl",
+        "content2.besteproduct.nl",
+        "content2.kieskeurig.nl",
+        "content2.pu.nl",
+        "content2.wasmachines.nl",
+        "content2.zoom.nl",
+        "preroll.omroepvenlo.nl",
+        "proxy.optoutadserving.com",
+        "cryptosplash.care",
+        "cryptobeneluxbanner.care",
+        "cdn.optoutadvertising.com",
+        "zsp1.ah.be",
+        "zsp1.ah.nl",
+        "x9t7g4m2qk2.azurewebsites.net",
+        "content2.nrc.nl",
+        "aa.hwigroup.com",
+        "ab.hwigroup.com",
+        "ab.tweakers.nl",
+        "a.medialaancdn.be"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "hmshanyin.com",
+        "tomonavi.xyz",
+        "dailyrumor-jp.co.in",
+        "yariman.online",
+        "paradise1972.com",
+        "linoee.com",
+        "line-e.com",
+        "ranmaotome.com",
+        "sb-hip-happy.ourservice.jp",
+        "bra.almado.jp",
+        "unddeliv.com",
+        "thepsusiwho.com",
+        "moro-douga.link",
+        "enmusubimail000.com",
+        "infohimatalk77.net",
+        "askfollow.us",
+        "freeadd.me",
+        "twitob.com",
+        "twitterfollowers.site",
+        "more-followers.com",
+        "googleailesi.com",
+        "av-mov.com",
+        "click-count.info"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1132
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlsite.com"
+      ],
+      "initiatorDomains": [
+        "motimoti3d.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1133
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dmm.co.jp"
+      ],
+      "initiatorDomains": [
+        "exploader.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1134
+  },
+  {
+    "condition": {
+      "urlFilter": "||javcup.com/pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1135
+  }
+]

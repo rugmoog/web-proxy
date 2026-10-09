@@ -1,0 +1,43 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "viiukuhe.com",
+        "aggravatingoil.com",
+        "trpartners.io",
+        "policycounsel.org",
+        "clbanners9.com",
+        "partnerx.bethub.io",
+        "filmreklam.livebahispartners.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1225
+  },
+  {
+    "condition": {
+      "urlFilter": "/tr?tag="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1226
+  },
+  {
+    "condition": {
+      "urlFilter": "||goo.gl/dx9nud",
+      "initiatorDomains": [
+        "technopat.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1227
+  }
+]
