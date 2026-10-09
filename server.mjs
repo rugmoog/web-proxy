@@ -152,9 +152,19 @@ async function start() {
     timeout: 20000,
   });
 
-  app.listen(8000, "0.0.0.0", () => {
-    console.log(`Browser controller listening on port 3000; allowed origin: ${allowedOrigin}`);
-  });
+  const requestedPort = Number(process.env.PORT || 8000);
+
+const server = app.listen(requestedPort, "0.0.0.0", () => {
+  const address = server.address();
+  const actualPort =
+    typeof address === "object" && address !== null
+      ? address.port
+      : requestedPort;
+
+  console.log(`Server running on port ${actualPort}`);
+  console.log("Type 'stop' and press enter to stop the server.")
+});
+
 }
 
 start().catch((error) => {
@@ -162,9 +172,34 @@ start().catch((error) => {
   process.exit(1);
 });
 
+let stopping = false;
+
 async function shutdown() {
-  if (browser) await browser.close();
+  if (stopping) return;
+  stopping = true;
+
+  console.log("Stopping server...");
+  try {
+    await browser?.close();
+  } catch {}
+
   process.exit(0);
 }
+
 process.on("SIGINT", shutdown);
 process.on("SIGTERM", shutdown);
+
+let inputBuffer = "";
+process.stdin.setEncoding("utf8");
+process.stdin.on("data", (chunk) => {
+  inputBuffer += chunk;
+  const lines = inputBuffer.split(/\r?\n/);
+  inputBuffer = lines.pop() ?? "";
+
+  for (const line of lines) {
+    if (line.trim().toLowerCase() === "stop") {
+      void shutdown();
+    }
+  }
+});
+
