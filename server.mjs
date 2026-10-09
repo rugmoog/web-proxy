@@ -10,8 +10,8 @@ const profilePath = path.join(tmpdir(), "web-proxy-chromium-profile");
 
 let configuredOrigin = process.env.ALLOWED_ORIGIN;
 if (!configuredOrigin) {
-  console.log("ALLOWED_ORIGIN not set; using default https://pugmoog.github.io");
-configuredOrigin = "https://pugmoog.github.io"
+  console.log("ALLOWED_ORIGIN not set; using default https://start.duckduckgo.com");
+configuredOrigin = "https://start.duckduckgo.com"
 }
 
 const parsedOrigin = new URL(configuredOrigin);

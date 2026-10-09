@@ -60,7 +60,7 @@
   <form id="type-form">
     <input id="type-text" type="text" placeholder="Type into the focused page" autocomplete="off">
     <button type="submit">Send</button>
-    <button id="send-enter" type="button">Enter</button>
+    <button class="send-key" type="button" onclick="sendKey('Enter')">Enter</button>
   </form>
 </div>
 
@@ -142,9 +142,11 @@ typeForm.addEventListener("submit", async (event) => {
   typeText.focus();
 });
 
-document.querySelector("#send-enter").addEventListener("click", () => {
-  callApi("/api/input/key", { key: "Enter" });
-});
+//document.querySelector(".send-key").addEventListener("click", () => {
+
+function sendKey(keyy) {
+  callApi("/api/input/key", { key: keyy });
+}
 
 
     let inputQueue = Promise.resolve();
