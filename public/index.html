@@ -47,22 +47,23 @@
 </head>
 <body>
   <form id="toolbar">
-    <button type="button" data-action="back">Back</button>
-    <button type="button" data-action="forward">Forward</button>
-    <button type="button" data-action="reload">Reload</button>
+    <button type="button" data-action="back"><</button>
+    <button type="button" data-action="forward">></button>
+    <button type="button" data-action="reload">↺</button>
     <input id="address" aria-label="URL" placeholder="Enter an allowed HTTPS URL">
     <button type="submit">Go</button>
   </form>
-  <div id="page-controls">
-  <label for="remote-scroll">Page scroll</label>
+  <form id="toolbar">
+  <button>DuckDuckGo</button>
+  <button>AI</button>
   <input id="remote-scroll" type="range" min="0" max="0" value="0" disabled>
-
+</form>
   <form id="type-form">
     <input id="type-text" type="text" placeholder="Type into the focused page" autocomplete="off">
     <button type="submit">Send</button>
-    <button class="send-key" type="button" onclick="sendKey('Enter')">Enter</button>
+    <button type="button" onclick="">More typing...</button>
   </form>
-</div>
+
 
 
   <div id="status">Connecting…</div>
