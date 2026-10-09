@@ -17,6 +17,31 @@
   background: white;
   cursor: crosshair;
 }
+#page-controls {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px;
+  background: #ddd;
+}
+
+#remote-scroll {
+  width: 100%;
+}
+
+#type-form {
+  grid-column: 1 / -1;
+  display: flex;
+  gap: 8px;
+}
+
+@media (max-width: 500px) {
+  #page-controls {
+    grid-template-columns: 1fr;
+  }
+}
+
 
   </style>
 </head>
@@ -28,6 +53,17 @@
     <input id="address" aria-label="URL" placeholder="Enter an allowed HTTPS URL">
     <button type="submit">Go</button>
   </form>
+  <div id="page-controls">
+  <label for="remote-scroll">Page scroll</label>
+  <input id="remote-scroll" type="range" min="0" max="0" value="0" disabled>
+
+  <form id="type-form">
+    <input id="type-text" type="text" placeholder="Type into the focused page" autocomplete="off">
+    <button type="submit">Send</button>
+    <button id="send-enter" type="button">Enter</button>
+  </form>
+</div>
+
 
   <div id="status">Connecting…</div>
   <img id="screen" alt="Remote browser view" tabindex="0">
@@ -58,6 +94,7 @@
       if (result.url) address.value = result.url;
       status.textContent = result.url || "Ready";
       refreshScreen();
+      refreshScroll();
     }
 
     document.querySelector("#toolbar").addEventListener("submit", (event) => {
@@ -72,6 +109,42 @@
     });
 
 
+const remoteScroll = document.querySelector("#remote-scroll");
+const typeForm = document.querySelector("#type-form");
+const typeText = document.querySelector("#type-text");
+
+async function refreshScroll() {
+  try {
+    const response = await fetch(`/api/scroll-state?t=${Date.now()}`);
+    const state = await response.json();
+
+    const max = Math.max(0, Number(state.max) || 0);
+    remoteScroll.max = String(max);
+    remoteScroll.value = String(Math.min(max, Math.max(0, Number(state.top) || 0)));
+    remoteScroll.disabled = max === 0;
+  } catch {
+    // The next refresh can retry.
+  }
+}
+
+remoteScroll.addEventListener("change", () => {
+  callApi("/api/scroll-to", { y: Number(remoteScroll.value) });
+});
+
+typeForm.addEventListener("submit", async (event) => {
+  event.preventDefault();
+
+  const text = typeText.value;
+  if (!text) return;
+
+  await callApi("/api/input/type", { text });
+  typeText.value = "";
+  typeText.focus();
+});
+
+document.querySelector("#send-enter").addEventListener("click", () => {
+  callApi("/api/input/key", { key: "Enter" });
+});
 
 
     let inputQueue = Promise.resolve();
@@ -122,12 +195,13 @@ screen.addEventListener("keydown", (event) => {
         address.value = result.url || "";
         status.textContent = `Allowed site: ${result.allowedOrigin}`;
         refreshScreen();
+        refreshScroll();
       })
       .catch(() => {
         status.textContent = "Could not reach the browser server.";
       });
 
-    setInterval(refreshScreen, 2000);
+    setInterval(refreshScreen, 300);
   </script>
 </body>
 </html>

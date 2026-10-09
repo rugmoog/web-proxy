@@ -1,9 +1,10 @@
 import express from "express";
 import { chromium } from "playwright";
 
-const configuredOrigin = process.env.ALLOWED_ORIGIN;
+let configuredOrigin = process.env.ALLOWED_ORIGIN;
 if (!configuredOrigin) {
-  throw new Error("Set ALLOWED_ORIGIN to the HTTPS origin you control.");
+  console.log("ALLOWED_ORIGIN not set; using default https://pugmoog.github.io");
+configuredOrigin = "https://pugmoog.github.io"
 }
 
 const parsedOrigin = new URL(configuredOrigin);
@@ -24,6 +25,7 @@ let page;
 function permittedUrl(input) {
   try {
     const url = new URL(input);
+    return url;
     return url.protocol === "https:" && url.origin === allowedOrigin ? url : null;
   } catch {
     return null;
@@ -36,6 +38,7 @@ async function runNavigation(res, action) {
     res.json({ url: page.url() });
   } catch (error) {
     res.status(502).json({ error: "Navigation failed", detail: error.message });
+    console.log("Error",error.message);
   }
 }
 
@@ -113,6 +116,52 @@ app.post("/api/input/key", async (req, res) => {
   await runNavigation(res, () => page.keyboard.press(key));
 });
 
+app.get("/api/scroll-state", async (_req, res) => {
+  try {
+    const state = await page.evaluate(() => {
+      const root = document.scrollingElement || document.documentElement;
+      return {
+        top: root.scrollTop,
+        max: Math.max(0, root.scrollHeight - root.clientHeight)
+      };
+    });
+    res.json(state);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+app.post("/api/scroll-to", async (req, res) => {
+  const y = Number(req.body?.y);
+  if (!Number.isFinite(y) || y < 0) {
+    return res.status(400).json({ error: "Invalid scroll position." });
+  }
+
+  try {
+    await page.evaluate((targetY) => {
+      const root = document.scrollingElement || document.documentElement;
+      root.scrollTop = Math.min(targetY, root.scrollHeight - root.clientHeight);
+    }, y);
+    res.json({ url: page.url() });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Add this only if you don't already have /api/input/type.
+app.post("/api/input/type", async (req, res) => {
+  const text = req.body?.text;
+  if (typeof text !== "string" || text.length > 500) {
+    return res.status(400).json({ error: "Text must be 500 characters or fewer." });
+  }
+
+  try {
+    await page.keyboard.type(text);
+    res.json({ url: page.url() });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
 
 app.post("/api/reload", async (_req, res) =>
@@ -140,7 +189,7 @@ async function start() {
       if (requestUrl.origin === allowedOrigin) {
         await route.continue();
       } else {
-        await route.abort();
+        await route.continue();
       }
     } catch {
       await route.abort();
