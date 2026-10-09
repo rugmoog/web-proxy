@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Remote browser</title>
+  <style>
+    body { margin: 0; font: 15px system-ui, sans-serif; background: #eee; }
+    form { display: flex; gap: 8px; padding: 10px; background: #222; }
+    input { flex: 1; min-width: 0; padding: 8px; }
+    button { padding: 8px 12px; cursor: pointer; }
+    #status { padding: 6px 10px; color: #444; }
+    #screen {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: white;
+  cursor: crosshair;
+}
+
+  </style>
+</head>
+<body>
+  <form id="toolbar">
+    <button type="button" data-action="back">Back</button>
+    <button type="button" data-action="forward">Forward</button>
+    <button type="button" data-action="reload">Reload</button>
+    <input id="address" aria-label="URL" placeholder="Enter an allowed HTTPS URL">
+    <button type="submit">Go</button>
+  </form>
+
+  <div id="status">Connecting…</div>
+  <img id="screen" alt="Remote browser view" tabindex="0">
+
+  <script>
+    const address = document.querySelector("#address");
+    const status = document.querySelector("#status");
+    const screen = document.querySelector("#screen");
+
+    function refreshScreen() {
+      screen.src = `/api/screen?t=${Date.now()}`;
+    }
+
+    async function callApi(path, body) {
+      status.textContent = "Loading…";
+      const response = await fetch(path, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body ?? {})
+      });
+      const result = await response.json();
+
+      if (!response.ok) {
+        status.textContent = result.error || "Request failed";
+        return;
+      }
+
+      if (result.url) address.value = result.url;
+      status.textContent = result.url || "Ready";
+      refreshScreen();
+    }
+
+    document.querySelector("#toolbar").addEventListener("submit", (event) => {
+      event.preventDefault();
+      callApi("/api/navigate", { url: address.value });
+    });
+
+    document.querySelectorAll("[data-action]").forEach((button) => {
+      button.addEventListener("click", () => {
+        callApi(`/api/${button.dataset.action}`);
+      });
+    });
+
+
+
+
+    let inputQueue = Promise.resolve();
+
+function queueInput(path, body) {
+  inputQueue = inputQueue
+    .then(() => callApi(path, body))
+    .catch((error) => {
+      status.textContent = error.message;
+    });
+}
+
+screen.addEventListener("click", (event) => {
+  const rect = screen.getBoundingClientRect();
+  if (!screen.naturalWidth || !rect.width || !rect.height) return;
+
+  const x = (event.clientX - rect.left) * screen.naturalWidth / rect.width;
+  const y = (event.clientY - rect.top) * screen.naturalHeight / rect.height;
+
+  screen.focus();
+  queueInput("/api/input/click", { x, y });
+});
+
+const pageKeys = new Set([
+  "Enter", "Tab", "Escape", "Backspace", "Delete",
+  "ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight",
+  "Home", "End", "PageUp", "PageDown", " "
+]);
+
+screen.addEventListener("keydown", (event) => {
+  if (document.activeElement !== screen || event.ctrlKey || event.metaKey || event.altKey) {
+    return;
+  }
+
+  if (event.key.length === 1) {
+    event.preventDefault();
+    queueInput("/api/input/type", { text: event.key });
+  } else if (pageKeys.has(event.key)) {
+    event.preventDefault();
+    const key = event.key === " " ? "Space" : event.key;
+    queueInput("/api/input/key", { key });
+  }
+});
+
+    fetch("/api/status")
+      .then((response) => response.json())
+      .then((result) => {
+        address.value = result.url || "";
+        status.textContent = `Allowed site: ${result.allowedOrigin}`;
+        refreshScreen();
+      })
+      .catch(() => {
+        status.textContent = "Could not reach the browser server.";
+      });
+
+    setInterval(refreshScreen, 2000);
+  </script>
+</body>
+</html>

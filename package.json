@@ -1,0 +1,26 @@
+{
+  "name": "web-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rugmoog/web-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rugmoog/web-proxy/issues"
+  },
+  "homepage": "https://github.com/rugmoog/web-proxy#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "playwright": "^1.64.0"
+  }
+}
